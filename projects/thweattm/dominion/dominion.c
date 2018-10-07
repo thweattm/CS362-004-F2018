@@ -678,7 +678,7 @@ int adventurerCard(struct gameState *state, int currentPlayer){
 	
 	
 	//BUG INTRODUCED HERE
-	//ORIGINAL LINE: 'while(z-1>=0){
+	//ORIGINAL LINE: 'while(z-1>=0){'
 	while(z>=0){
 		// discard all cards in play that have been drawn
 		state->discard[currentPlayer][state->discardCount[currentPlayer]++]=temphand[z-1]; 
@@ -692,6 +692,8 @@ int adventurerCard(struct gameState *state, int currentPlayer){
 int smithyCard(struct gameState *state, int currentPlayer, int handPos){
 	int i;
 	//+3 Cards
+	//BUG INTRODUCED HERE
+	//ORIGINAL LINE: 'for (i = 0; i < 3; i++){'
 	for (i = 0; i < 2; i++){
 		drawCard(currentPlayer, state);
 	}
@@ -712,7 +714,9 @@ int mineCard(struct gameState *state, int currentPlayer, int choice1, int choice
 	if (state->hand[currentPlayer][choice1] < copper || state->hand[currentPlayer][choice1] > gold){
 		return -1;
 	}
-		
+	
+	//BUG INTRODUCED HERE
+	//ORIGINAL LINE: 'if (choice2 > treasure_map || choice2 < curse){'
 	if (choice2 > treasure_map && choice2 < curse){
 		return -1;
 	}
@@ -761,6 +765,9 @@ int catpurseCard(struct gameState *state, int currentPlayer, int handPos){
 	
 	//Loop through all players
 	for (i = 0; i < state->numPlayers; i++){
+		
+		//BUG INTRODUCED HERE
+		//ORIGINAL LINE: 'if (i != currentPlayer){'
 		if (i == currentPlayer){
 			//For all other players, discard all copper from hand
 			for (j = 0; j < state->handCount[i]; j++){
