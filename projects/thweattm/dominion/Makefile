@@ -35,8 +35,14 @@ unittest2: dominion.o unittest2.c rngs.o
 	gcc -o unittest2 -g unittest2.c dominion.o rngs.o $(CFLAGS)
 	./unittest2 >> unittestresults.out
 	gcov dominion.c >> unittestresults.out
+
+unittest3: dominion.o unittest3.c rngs.o
+	echo ">>>> unittest3.c <<<<" >> unittestresults.out
+	gcc -o unittest3 -g unittest3.c dominion.o rngs.o $(CFLAGS)
+	./unittest3 >> unittestresults.out
+	gcov dominion.c >> unittestresults.out
 	
-unittestresults: unittest1 unittest2
+unittestresults: unittest1 unittest2 unittest3
 
 ######
 	
@@ -64,4 +70,4 @@ runtests: testDrawCard
 
 
 clean:
-	rm -f *.o *.exe  *.gcov *.gcda *.gcno *.so *.out playdom player testDrawCard unittest1 unittest2
+	rm -f *.o *.exe  *.gcov *.gcda *.gcno *.so *.out playdom player testDrawCard unittest1 unittest2 unittest3
