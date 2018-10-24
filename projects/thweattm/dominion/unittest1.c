@@ -43,12 +43,10 @@ int main(){
 	b = 3;
 	c = compare(&a, &b);
 	
-	if (c == 1){
-		printf("Test 3 failure: a (%d) > b (%d)\n", a, b);
-	} else if (c == -1){
-		printf("Test 3 failure: a (%d) < b (%d)\n", a, b);
+	if (c == 0){
+		printf("Test 3 success: a (%d) == b (%d)\n", a, b);
 	} else {
-		printf("Test 3 error: a (%d) == b (%d)\n", a, b);
+		printf("Test 3 failure: a (%d) should = b (%d)\n", a, b);
 	}
 	
 	// - Test 4: both negative numbers

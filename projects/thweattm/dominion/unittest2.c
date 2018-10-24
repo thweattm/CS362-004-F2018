@@ -23,22 +23,12 @@ int main(){
 	//10 = random generator seed
 	initializeGame(2, k, 10, &currentState);
 	
-	/*
-	printf("number of cards in deck for player 1 = %d\n", currentState.deckCount[0]);
-	printf("number of cards in hand for player 1 = %d\n", currentState.handCount[0]);
-	printf("number of cards in deck for player 2 = %d\n", currentState.deckCount[1]);
-	printf("number of cards in hand for player 2 = %d\n", currentState.handCount[1]);
-	*/
-	
 	//Copy original gameState for comparison after shuffle
 	memcpy(&originalState, &currentState, sizeof(struct gameState));
 	
 	//Shuffle deck
 	shuffle(0, &currentState);
 	
-	//int originalDeck[MAX_DECK];
-	//state->deck[player][i] = newDeck[i];
-	//int deckCount[MAX_PLAYERS];
 	
 	// -- Test 1: number of cards is same before and after shuffle for player 0
 	if (currentState.deckCount[0] == originalState.deckCount[0]){

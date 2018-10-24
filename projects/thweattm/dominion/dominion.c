@@ -103,32 +103,24 @@ int initializeGame(int numPlayers, int kingdomCards[10], int randomSeed,
   state->supplyCount[gold] = 30;
 
   //set number of Kingdom cards
-  for (i = adventurer; i <= treasure_map; i++)       	//loop all cards
-    {
-      for (j = 0; j < 10; j++)           		//loop chosen cards
-	{
-	  if (kingdomCards[j] == i)
-	    {
-	      //check if card is a 'Victory' Kingdom card
-	      if (kingdomCards[j] == great_hall || kingdomCards[j] == gardens)
-		{
-		  if (numPlayers == 2){ 
-		    state->supplyCount[i] = 8; 
-		  }
-		  else{ state->supplyCount[i] = 12; }
-		}
-	      else
-		{
-		  state->supplyCount[i] = 10;
-		}
-	      break;
-	    }
-	  else    //card is not in the set choosen for the game
-	    {
-	      state->supplyCount[i] = -1;
-	    }
-	}
-
+	for (i = adventurer; i <= treasure_map; i++){       	//loop all cards
+		for (j = 0; j < 10; j++){         		//loop chosen cards
+			if (kingdomCards[j] == i){
+				//check if card is a 'Victory' Kingdom card
+				if (kingdomCards[j] == great_hall || kingdomCards[j] == gardens){
+					if (numPlayers == 2){ 
+						state->supplyCount[i] = 8; 
+					} else { 
+						state->supplyCount[i] = 12;
+					}
+				} else {
+					state->supplyCount[i] = 10;
+				}
+				break;
+			} else {   //card is not in the set choosen for the game
+				state->supplyCount[i] = -1;
+			}
+		}	
     }
 
   ////////////////////////
@@ -755,7 +747,7 @@ int villageCard(struct gameState *state, int currentPlayer, int handPos){
 }
 
 //Card 5: Catpurse Card
-int catpurseCard(struct gameState *state, int currentPlayer, int handPos){
+int cutpurseCard(struct gameState *state, int currentPlayer, int handPos){
 	int i;
 	int j;
 	int k;
@@ -1336,7 +1328,7 @@ int cardEffect(int card, int choice1, int choice2, int choice3, struct gameState
 		
 		//Catpurse card moved to separated implementation (above this function)
 		//Original code commented out above for preservation/reference
-		return catpurseCard(state, currentPlayer, handPos);
+		return cutpurseCard(state, currentPlayer, handPos);
 
 	/********************************************************
 	*********************************************************

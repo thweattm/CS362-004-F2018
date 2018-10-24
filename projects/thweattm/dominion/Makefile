@@ -42,7 +42,19 @@ unittest3: dominion.o unittest3.c rngs.o
 	./unittest3 >> unittestresults.out
 	gcov dominion.c >> unittestresults.out
 	
-unittestresults: unittest1 unittest2 unittest3
+unittest4: dominion.o unittest4.c rngs.o
+	echo ">>>> unittest4.c <<<<" >> unittestresults.out
+	gcc -o unittest4 -g unittest4.c dominion.o rngs.o $(CFLAGS)
+	./unittest4 >> unittestresults.out
+	gcov dominion.c >> unittestresults.out
+	
+cardtest1: dominion.o cardtest1.c rngs.o
+	echo ">>>> cardtest1.c <<<<" >> unittestresults.out
+	gcc -o cardtest1 -g cardtest1.c dominion.o rngs.o $(CFLAGS)
+	./cardtest1 >> unittestresults.out
+	gcov dominion.c >> unittestresults.out
+	
+unittestresults: unittest1 unittest2 unittest3 unittest4 cardtest1
 
 ######
 	
@@ -70,4 +82,4 @@ runtests: testDrawCard
 
 
 clean:
-	rm -f *.o *.exe  *.gcov *.gcda *.gcno *.so *.out playdom player testDrawCard unittest1 unittest2 unittest3
+	rm -f *.o *.exe  *.gcov *.gcda *.gcno *.so *.out playdom player testDrawCard unittest1 unittest2 unittest3 unittest4 cardtest1
