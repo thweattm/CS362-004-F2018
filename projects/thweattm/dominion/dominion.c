@@ -761,7 +761,7 @@ int cutpurseCard(struct gameState *state, int currentPlayer, int handPos){
 		//BUG INTRODUCED HERE
 		//ORIGINAL LINE: 'if (i != currentPlayer){'
 		if (i == currentPlayer){
-			//For all other players, discard all copper from hand
+			//For all other players, discard 1 copper from hand
 			for (j = 0; j < state->handCount[i]; j++){
 				if (state->hand[i][j] == copper){
 					discardCard(j, i, state, 0);

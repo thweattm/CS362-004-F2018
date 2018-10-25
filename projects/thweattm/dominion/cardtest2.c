@@ -2,9 +2,10 @@
 Mike Thweatt
 10/14/18
 CS362
-Dominion - Card Test 1
-'smithy' card
-smithy info: Add 3 cards to hand, discard the smithy card
+Dominion - Card Test 2
+'adventurer' card
+adventurer info: Reveal cards from your deck until you reveal 2 treasure cards. 
+	Place the treasure cards in your hand and discard the other revealed cards.
 */
 
 #include "dominion.h"
@@ -12,23 +13,23 @@ smithy info: Add 3 cards to hand, discard the smithy card
 #include <string.h>
 
 void rigPlayerCards(int player, struct gameState *currentState){
-	//Hand cards
-	currentState->hand[player][0] = copper;
-	currentState->hand[player][1] = silver;
-	currentState->hand[player][2] = gold;
+	//Hand cards (no treasure in hand to start)
+	currentState->hand[player][0] = estate;
+	currentState->hand[player][1] = duchy;
+	currentState->hand[player][2] = province;
 	currentState->hand[player][3] = adventurer;
 	currentState->hand[player][4] = smithy;
-	//Deck cards
-	currentState->deck[player][0] = estate;
-	currentState->deck[player][1] = duchy;
-	currentState->deck[player][2] = province;
-	currentState->deck[player][3] = village;
-	currentState->deck[player][4] = cutpurse;
+	//Deck cards (Put treasure at the end to generate cards skipped)
+	currentState->deck[player][0] = cutpurse;
+	currentState->deck[player][1] = village;
+	currentState->deck[player][2] = gold;
+	currentState->deck[player][3] = silver;
+	currentState->deck[player][4] = copper;
 }
 
 int main(){
 	//Initiate game
-	int i, found;
+	int i, j, found;
 	struct gameState currentState, originalState;
 	int k[10] = {adventurer, feast, gardens, smithy, village, minion, mine, cutpurse,
 		   embargo, outpost};
@@ -38,13 +39,14 @@ int main(){
 	initializeGame(2, k, 10, &currentState);
 	
 	//Start the test with all unique cards between hand and deck for better verification
+	//Start with NO treasure in hand, only in deck
 	rigPlayerCards(0, &currentState);
 	
 	//Copy original gameState for comparison after
 	memcpy(&originalState, &currentState, sizeof(struct gameState));
 	
-	//Play smithy card (in handPos 4)
-	playCard(4, -1, -1, -1, &currentState);
+	//Play adventurer card (in handPos 3)
+	playCard(3, -1, -1, -1, &currentState);
 	
 	
 	// -- Section 1: Current player items
@@ -69,56 +71,58 @@ int main(){
 			printf("Test 1.c failure: numBuys changed unexpectedly\n");
 		}
 		
-		// -- 1.d: Deck should decrease by 3
-		if (currentState.deckCount[0] == originalState.deckCount[0] - 3){
-			printf("Test 1.d success: deckCount decreased by 3\n");
+		// -- 1.d: Deck should decrease by 2 + however many non-treasure cards were found
+		// -- for the test, it should skip 2 cards, so deck should decrease by 4
+		if (currentState.deckCount[0] == originalState.deckCount[0] - 4){
+			printf("Test 1.d success: deckCount decreased by 4\n");
 		} else {
-			printf("Test 1.d failure: deckCount did not decrease by 3 (current deckCount: %d, original deckCount: %d)\n", 
+			printf("Test 1.d failure: deckCount did not decrease by 4 (current deckCount: %d, original deckCount: %d)\n", 
 				currentState.deckCount[0], originalState.deckCount[0]);
 		}
 		
-		// -- 1.e: Played card count should increase by 1
-		if (currentState.playedCardCount == originalState.playedCardCount + 1){
-			printf("Test 1.e success: playedCardCount increased by 1\n");
+		// -- 1.e: discardCount[player] should equal however many non-treasure cards were skipped
+		// for this test, two should be discarded (cutpurse and village)
+		if (currentState.discardCount[0] == originalState.discardCount[0] + 2){
+			printf("Test 1.e success: discardCount increased by 2\n");
 		} else {
-			printf("Test 1.e failure: playedCardCount did not increase by 1 (current playedCardCount: %d, original playedCardCount: %d)\n", 
-				currentState.playedCardCount, originalState.playedCardCount);
+			printf("Test 1.e failure: discardCount did not increase by 2 (current discardCount: %d, original discardCount: %d)\n", 
+				currentState.discardCount[0], originalState.discardCount[0]);
 		}
 		
-		// -- 1.f: playedCards[i] should now have smithy
-		found = 0;
-		for (i = 0; i < currentState.playedCardCount; i++){
-			if (currentState.playedCards[i] == smithy){
-				found = 1;
-				break;
+		// -- 1.f: discard[player][i] should now have all cards that were skipped
+		// -- For this test it should have cutpurse and village)
+		j = 0;
+		for (i = 0; i < currentState.discardCount[0]; i++){
+			if (currentState.discard[0][i] == cutpurse || currentState.discard[0][i] == village){
+				j++;
 			}
 		}
-		if (found){
-			printf("Test 1.f success: smithy now in the played stack\n");
+		if (j == 2){
+			printf("Test 1.f success: cuturse & village found in discard\n");
 		} else {
-			printf("Test 1.f failure: smithy is not in the played stack\n");
+			printf("Test 1.f failure: cutpurse & village not found in discard\n");
 		}
 		
-		// -- 1.g: handCount should increase by 2 (additional 3 cards - 1 smithy)
-		if (currentState.handCount[0] == originalState.handCount[0] + 2){
-			printf("Test 1.g success: handCount increased by 2\n");
+		// -- 1.g: handCount should increase by 1 (additional 2 treasure cards - 1 adventurer)
+		if (currentState.handCount[0] == originalState.handCount[0] + 1){
+			printf("Test 1.g success: handCount increased by 1\n");
 		} else {
-			printf("Test 1.g failure: handCount did not increase by 2 (current handCount: %d, original handCount: %d)\n", 
+			printf("Test 1.g failure: handCount did not increase by 1 (current handCount: %d, original handCount: %d)\n", 
 				currentState.handCount[0], originalState.handCount[0]);
 		}
 		
-		// -- 1.h: hand[player][i] should no longer have smithy
+		// -- 1.h: hand[player][i] should no longer have adventurer
 		found = 0;
 		for (i = 0; i < currentState.handCount[0]; i++){
-			if (currentState.hand[0][i] == smithy){
+			if (currentState.hand[0][i] == adventurer){
 				found = 1;
 				break;
 			}
 		}
 		if (found){
-			printf("Test 1.h failure: smithy is still in hand\n");
+			printf("Test 1.h failure: adventurer is still in hand\n");
 		} else {
-			printf("Test 1.h success: smithy is no longer in hand\n");
+			printf("Test 1.h success: adventurer is no longer in hand\n");
 		}
 		
 	// -- Section 2: Other players things should remain the same
@@ -168,10 +172,10 @@ int main(){
 		
 		// -- 2.e: Score should remain the same
 		if (scoreFor(1, &currentState) == scoreFor(1, &originalState)){
-			printf("Test 2.e success: scores remain the same for player 2\n");
+			printf("Test 2.e success: player 2 score remains the same\n");
 		} else {
-			printf("Test 2.e failure: scores should have remained the same for player 2\n");
+			printf("Test 2.e failure: player 2 score should have remained the same\n");
 		}
-	
+
 	return 0;
 }
