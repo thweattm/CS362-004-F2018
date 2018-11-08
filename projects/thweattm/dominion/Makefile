@@ -24,19 +24,25 @@ default: all
 
 
 #my test functions
+randomtestadventurer: dominion.o randomtestadventurer.c rngs.o
+	echo ">>>> randomtestadventurer.c <<<<" > randomtestadventurer.out
+	gcc -o randomtestadventurer -g randomtestadventurer.c dominion.o rngs.o $(CFLAGS)
+	./randomtestadventurer >> randomtestadventurer.out
+	gcov -b dominion.c >> randomtestadventurer.out
+	
 randomtestcard1: dominion.o randomtestcard1.c rngs.o
 	echo ">>>> randomtestcard1.c <<<<" > randomtestcard1.out
 	gcc -o randomtestcard1 -g randomtestcard1.c dominion.o rngs.o $(CFLAGS)
 	./randomtestcard1 >> randomtestcard1.out
 	gcov -b dominion.c >> randomtestcard1.out
 
-randomtestadventurer: dominion.o randomtestadventurer.c rngs.o
-	echo ">>>> randomtestadventurer.c <<<<" > randomtestadventurer.out
-	gcc -o randomtestadventurer -g randomtestadventurer.c dominion.o rngs.o $(CFLAGS)
-	./randomtestadventurer >> randomtestadventurer.out
-	gcov -b dominion.c >> randomtestadventurer.out
+randomtestcard2: dominion.o randomtestcard2.c rngs.o
+	echo ">>>> randomtestcard2.c <<<<" > randomtestcard2.out
+	gcc -o randomtestcard2 -g randomtestcard2.c dominion.o rngs.o $(CFLAGS)
+	./randomtestcard2 >> randomtestcard2.out
+	gcov -b dominion.c >> randomtestcard2.out
 
-randomtestresults: randomtestcard1 randomtestadventurer
+randomtestresults: randomtestadventurer randomtestcard1 randomtestcard2
 
 ######
 	

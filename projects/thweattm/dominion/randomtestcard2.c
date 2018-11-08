@@ -3,9 +3,8 @@ Mike Thweatt
 11/03/18
 CS362
 Dominion - Random Test Card 2
-'adventurer' card
-adventurer info: Reveal cards from your deck until you find 2 treasure cards.
-	Put the treasure cards in your hand, discard the remaining revealed cards.
+'village' card
+village info: + 2 actions, +1 card to hand 
 int cardEffect(int card, int choice1, int choice2, int choice3, struct gameState *state, int handPos, int *bonus)
 */
 
@@ -17,22 +16,6 @@ int cardEffect(int card, int choice1, int choice2, int choice3, struct gameState
 #include <string.h>
 #include <time.h>
 
-int skipCards(int player, struct gameState *gameBefore){
-	int skippedNum = 0;
-	int treasureFound = 0;
-	for (int i = gameBefore->deckCount[player]-1; i >= 0; i--){
-		if (gameBefore->deck[player][i] == copper || gameBefore->deck[player][i] == silver ||
-			gameBefore->deck[player][i] == gold){
-			treasureFound++;
-		} else {
-			skippedNum++;
-		}
-		if(treasureFound == 2){
-			return skippedNum;
-		}
-	}
-	return -1; //Two treasures not found
-}
 
 int testCard(int choice1, int choice2, int choice3, struct gameState *currentGame, int handPos, int *bonus, int i){
 	int faultFound = 0;
@@ -41,29 +24,27 @@ int testCard(int choice1, int choice2, int choice3, struct gameState *currentGam
 	memcpy(&gameBefore, currentGame, sizeof(struct gameState));
 	int player = gameBefore.whoseTurn;
 
-	//Play adventurer card
-	int result = cardEffect(adventurer, choice1, choice2, choice3, currentGame, handPos, bonus);
+	//Play village card
+	int result = cardEffect(village, choice1, choice2, choice3, currentGame, handPos, bonus);
 	
 
 	//Make needed changes to the gameBefore state as expected from the card functions
 	
-	//Increase hand count by 1 (+2 treasures - 1 played)
-	gameBefore.handCount[player] += 1;
-	
 	//Increase playedCardCount by 1
 	gameBefore.playedCardCount++;
 	
-	//Determine the number of skipped cards and decrease deck by that many + 2 treasures
-	int skippedCards = skipCards(player, &gameBefore);
-	gameBefore.deckCount[player] -= (skippedCards + 2);
+	//Reminder: Hand count doesn't change, +1 card, -1 village card = 0 net change
 	
-	//Add skipped cards to discardCount
-	gameBefore.discardCount[player] = skippedCards;
+	//Decrease deckCount by 1
+	gameBefore.deckCount[player]--;
 	
-	//Because of the randomness of the shuffle function, copy the deck, hand, and discard arrays
+	//Add 2 actions
+	gameBefore.numActions += 2;
+	
+	//Because of the randomness of the shuffle function, copy the deck, hand, and playedCards arrays
 	memcpy(gameBefore.deck[player], currentGame->deck[player], sizeof(int) * MAX_DECK);
 	memcpy(gameBefore.hand[player], currentGame->hand[player], sizeof(int) * MAX_HAND);
-	memcpy(gameBefore.discard[player], currentGame->discard[player], sizeof(int) * MAX_DECK);
+	memcpy(gameBefore.playedCards, currentGame->playedCards, sizeof(int) * (currentGame->playedCardCount));
 	
 	
 	
@@ -87,7 +68,7 @@ int testCard(int choice1, int choice2, int choice3, struct gameState *currentGam
 		if (gameBefore.phase != currentGame->phase){
 			printf("phase has changed\n");}
 		if (gameBefore.numActions != currentGame->numActions){
-			printf("numActions has changed\n");}
+			printf("numActions has changed. Before: %d After: %d\n", gameBefore.numActions, currentGame->numActions);}
 		if (gameBefore.coins != currentGame->coins){
 			printf("coins has changed\n");}
 		if (gameBefore.numBuys != currentGame->numBuys){
@@ -119,9 +100,9 @@ int main(){
 	struct gameState currentGame;
 	srand(time(NULL));
 	
-	printf("-----------------------------------\n");
-	printf("Starting Adventurer Random Testing:\n");
-	printf("-----------------------------------\n");
+	printf("------------------------------------\n");
+	printf("Starting Random Test Card 2: Village\n");
+	printf("------------------------------------\n");
 	
 	//Test loops
 	for (int i = 0; i < 1000; i++){
@@ -149,13 +130,8 @@ int main(){
 		//Set handCount to 5 to ensure hand only has 5 cards
 		currentGame.handCount[player] = 5;
 		
-		//Set deckCount to random number >0
+		//Set deckCount to random number > 0
 		currentGame.deckCount[player] = rand() % MAX_DECK + 1;
-		
-		//Randomize players deck with legitimate options
-		for (int i = 0; i < MAX_DECK; i++){
-			currentGame.deck[player][i] = rand() % treasure_map + curse;
-		}
 		
 		//Randomize handPos between 0 and number of cards in hand
 		handPos = rand() % currentGame.handCount[player];
