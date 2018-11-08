@@ -70,4 +70,4 @@ runtests: testDrawCard
 
 
 clean:
-	rm -f *.o *.exe  *.gcov *.gcda *.gcno *.so playdom player testDrawCard randomtestcard1 randomtestadventurer
+	rm -f *.o *.exe  *.gcov *.gcda *.gcno *.so playdom player testDrawCard randomtestcard1 randomtestcard2 randomtestadventurer
