@@ -29,7 +29,6 @@ int testCard(int choice1, int choice2, int choice3, struct gameState *currentGam
 	
 	//Make needed changes to the gameBefore state as expected from the card functions
 	
-	//Add 3 cards to hand
 	//Because of the randomness of the shuffle function, copy the deck, hand, and playedCards arrays
 	memcpy(gameBefore.deck[player], currentGame->deck[player], sizeof(int) * MAX_DECK);
 	memcpy(gameBefore.hand[player], currentGame->hand[player], sizeof(int) * MAX_HAND);

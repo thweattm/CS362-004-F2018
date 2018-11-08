@@ -25,14 +25,18 @@ default: all
 
 #my test functions
 randomtestcard1: dominion.o randomtestcard1.c rngs.o
-	#echo ">>>> randomtestcard1.c <<<<" > unittestresults.out
+	echo ">>>> randomtestcard1.c <<<<" > randomtestcard1.out
 	gcc -o randomtestcard1 -g randomtestcard1.c dominion.o rngs.o $(CFLAGS)
-	#./randomtestcard1 >> unittestresults.out
-	#gcov dominion.c >> unittestresults.out
-	
+	./randomtestcard1 >> randomtestcard1.out
+	gcov -b dominion.c >> randomtestcard1.out
 
-	
-randomtestresults: randomtestcard1
+randomtestadventurer: dominion.o randomtestadventurer.c rngs.o
+	echo ">>>> randomtestadventurer.c <<<<" > randomtestadventurer.out
+	gcc -o randomtestadventurer -g randomtestadventurer.c dominion.o rngs.o $(CFLAGS)
+	./randomtestadventurer >> randomtestadventurer.out
+	gcov -b dominion.c >> randomtestadventurer.out
+
+randomtestresults: randomtestcard1 randomtestadventurer
 
 ######
 	
@@ -60,4 +64,4 @@ runtests: testDrawCard
 
 
 clean:
-	rm -f *.o *.exe  *.gcov *.gcda *.gcno *.so playdom player testDrawCard randomtestcard1
+	rm -f *.o *.exe  *.gcov *.gcda *.gcno *.so playdom player testDrawCard randomtestcard1 randomtestadventurer
