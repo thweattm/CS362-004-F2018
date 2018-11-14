@@ -1,8 +1,8 @@
 /*
 Mike Thweatt
-11/03/18
+11/13/18
 CS362
-Dominion - Random Test Card 2
+Dominion - Random Test adventurer card
 'adventurer' card
 adventurer info: Reveal cards from your deck until you find 2 treasure cards.
 	Put the treasure cards in your hand, discard the remaining revealed cards.
