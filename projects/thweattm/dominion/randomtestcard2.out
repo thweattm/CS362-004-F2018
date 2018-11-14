@@ -10,3 +10,9 @@ Taken at least once:6.24% of 417
 Calls executed:11.58% of 95
 Creating 'dominion.c.gcov'
 
+Function 'villageCard'
+Lines executed:100.00% of 5
+No branches
+Calls executed:100.00% of 2
+
+Function 'mineCard'

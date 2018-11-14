@@ -29,19 +29,22 @@ randomtestadventurer: dominion.o randomtestadventurer.c rngs.o
 	gcc -o randomtestadventurer -g randomtestadventurer.c dominion.o rngs.o $(CFLAGS)
 	./randomtestadventurer >> randomtestadventurer.out
 	gcov -b dominion.c >> randomtestadventurer.out
+	gcov -b -f dominion.c | grep "adventurerCard" -B 0 -A 5 >> randomtestadventurer.out
 	
 randomtestcard1: dominion.o randomtestcard1.c rngs.o
 	echo ">>>> randomtestcard1.c <<<<" > randomtestcard1.out
 	gcc -o randomtestcard1 -g randomtestcard1.c dominion.o rngs.o $(CFLAGS)
 	./randomtestcard1 >> randomtestcard1.out
 	gcov -b dominion.c >> randomtestcard1.out
+	gcov -b -f dominion.c | grep "smithyCard" -B 0 -A 5 >> randomtestcard1.out
 
 randomtestcard2: dominion.o randomtestcard2.c rngs.o
 	echo ">>>> randomtestcard2.c <<<<" > randomtestcard2.out
 	gcc -o randomtestcard2 -g randomtestcard2.c dominion.o rngs.o $(CFLAGS)
 	./randomtestcard2 >> randomtestcard2.out
 	gcov -b dominion.c >> randomtestcard2.out
-
+	gcov -b -f dominion.c | grep "villageCard" -B 0 -A 5 >> randomtestcard2.out
+	
 randomtestresults: randomtestadventurer randomtestcard1 randomtestcard2
 
 ######
