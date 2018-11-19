@@ -1,0 +1,3019 @@
+>>>> randomtestcard2.c (village card) <<<<
+------------------------------------
+Starting Random Test Card 2: Village
+------------------------------------
+----------Loop 0---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 1---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 2---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 3---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 4---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 5---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 6---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 7---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 8---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 9---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 10---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 11---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 12---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 13---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 14---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 15---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 16---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 17---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 18---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 19---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 20---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 21---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 22---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 23---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 24---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 25---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 26---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 27---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 28---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 29---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 30---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 31---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 32---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 33---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 34---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 35---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 36---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 37---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 38---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 39---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 40---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 41---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 42---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 43---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 44---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 45---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 46---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 47---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 48---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 49---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 50---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 51---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 52---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 53---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 54---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 55---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 56---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 57---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 58---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 59---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 60---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 61---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 62---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 63---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 64---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 65---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 66---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 67---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 68---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 69---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 70---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 71---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 72---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 73---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 74---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 75---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 76---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 77---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 78---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 79---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 80---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 81---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 82---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 83---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 84---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 85---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 86---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 87---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 88---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 89---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 90---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 91---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 92---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 93---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 94---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 95---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 96---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 97---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 98---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 99---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 100---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 101---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 102---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 103---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 104---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 105---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 106---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 107---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 108---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 109---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 110---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 111---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 112---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 113---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 114---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 115---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 116---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 117---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 118---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 119---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 120---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 121---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 122---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 123---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 124---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 125---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 126---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 127---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 128---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 129---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 130---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 131---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 132---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 133---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 134---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 135---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 136---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 137---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 138---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 139---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 140---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 141---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 142---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 143---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 144---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 145---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 146---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 147---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 148---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 149---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 150---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 151---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 152---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 153---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 154---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 155---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 156---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 157---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 158---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 159---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 160---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 161---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 162---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 163---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 164---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 165---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 166---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 167---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 168---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 169---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 170---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 171---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 172---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 173---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 174---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 175---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 176---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 177---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 178---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 179---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 180---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 181---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 182---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 183---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 184---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 185---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 186---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 187---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 188---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 189---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 190---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 191---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 192---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 193---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 194---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 195---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 196---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 197---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 198---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 199---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 200---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 201---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 202---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 203---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 204---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 205---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 206---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 207---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 208---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 209---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 210---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 211---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 212---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 213---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 214---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 215---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 216---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 217---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 218---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 219---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 220---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 221---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 222---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 223---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 224---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 225---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 226---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 227---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 228---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 229---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 230---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 231---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 232---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 233---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 234---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 235---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 236---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 237---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 238---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 239---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 240---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 241---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 242---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 243---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 244---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 245---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 246---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 247---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 248---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 249---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 250---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 251---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 252---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 253---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 254---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 255---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 256---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 257---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 258---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 259---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 260---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 261---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 262---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 263---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 264---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 265---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 266---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 267---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 268---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 269---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 270---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 271---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 272---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 273---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 274---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 275---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 276---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 277---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 278---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 279---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 280---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 281---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 282---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 283---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 284---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 285---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 286---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 287---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 288---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 289---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 290---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 291---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 292---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 293---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 294---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 295---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 296---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 297---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 298---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 299---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 300---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 301---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 302---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 303---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 304---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 305---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 306---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 307---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 308---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 309---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 310---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 311---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 312---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 313---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 314---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 315---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 316---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 317---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 318---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 319---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 320---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 321---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 322---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 323---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 324---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 325---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 326---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 327---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 328---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 329---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 330---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 331---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 332---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 333---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 334---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 335---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 336---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 337---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 338---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 339---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 340---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 341---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 342---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 343---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 344---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 345---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 346---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 347---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 348---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 349---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 350---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 351---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 352---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 353---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 354---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 355---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 356---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 357---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 358---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 359---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 360---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 361---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 362---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 363---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 364---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 365---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 366---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 367---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 368---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 369---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 370---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 371---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 372---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 373---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 374---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 375---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 376---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 377---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 378---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 379---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 380---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 381---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 382---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 383---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 384---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 385---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 386---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 387---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 388---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 389---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 390---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 391---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 392---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 393---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 394---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 395---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 396---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 397---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 398---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 399---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 400---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 401---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 402---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 403---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 404---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 405---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 406---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 407---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 408---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 409---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 410---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 411---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 412---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 413---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 414---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 415---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 416---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 417---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 418---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 419---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 420---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 421---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 422---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 423---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 424---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 425---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 426---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 427---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 428---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 429---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 430---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 431---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 432---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 433---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 434---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 435---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 436---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 437---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 438---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 439---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 440---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 441---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 442---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 443---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 444---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 445---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 446---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 447---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 448---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 449---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 450---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 451---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 452---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 453---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 454---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 455---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 456---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 457---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 458---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 459---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 460---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 461---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 462---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 463---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 464---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 465---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 466---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 467---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 468---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 469---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 470---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 471---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 472---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 473---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 474---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 475---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 476---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 477---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 478---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 479---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 480---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 481---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 482---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 483---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 484---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 485---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 486---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 487---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 488---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 489---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 490---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 491---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 492---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 493---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 494---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 495---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 496---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 497---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 498---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 499---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 500---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 501---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 502---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 503---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 504---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 505---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 506---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 507---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 508---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 509---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 510---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 511---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 512---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 513---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 514---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 515---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 516---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 517---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 518---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 519---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 520---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 521---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 522---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 523---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 524---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 525---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 526---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 527---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 528---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 529---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 530---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 531---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 532---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 533---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 534---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 535---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 536---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 537---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 538---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 539---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 540---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 541---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 542---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 543---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 544---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 545---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 546---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 547---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 548---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 549---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 550---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 551---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 552---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 553---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 554---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 555---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 556---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 557---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 558---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 559---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 560---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 561---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 562---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 563---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 564---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 565---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 566---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 567---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 568---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 569---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 570---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 571---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 572---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 573---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 574---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 575---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 576---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 577---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 578---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 579---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 580---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 581---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 582---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 583---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 584---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 585---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 586---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 587---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 588---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 589---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 590---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 591---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 592---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 593---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 594---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 595---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 596---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 597---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 598---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 599---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 600---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 601---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 602---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 603---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 604---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 605---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 606---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 607---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 608---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 609---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 610---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 611---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 612---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 613---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 614---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 615---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 616---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 617---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 618---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 619---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 620---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 621---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 622---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 623---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 624---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 625---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 626---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 627---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 628---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 629---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 630---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 631---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 632---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 633---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 634---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 635---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 636---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 637---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 638---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 639---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 640---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 641---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 642---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 643---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 644---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 645---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 646---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 647---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 648---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 649---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 650---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 651---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 652---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 653---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 654---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 655---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 656---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 657---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 658---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 659---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 660---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 661---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 662---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 663---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 664---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 665---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 666---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 667---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 668---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 669---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 670---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 671---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 672---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 673---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 674---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 675---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 676---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 677---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 678---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 679---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 680---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 681---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 682---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 683---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 684---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 685---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 686---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 687---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 688---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 689---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 690---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 691---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 692---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 693---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 694---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 695---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 696---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 697---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 698---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 699---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 700---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 701---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 702---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 703---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 704---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 705---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 706---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 707---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 708---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 709---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 710---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 711---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 712---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 713---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 714---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 715---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 716---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 717---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 718---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 719---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 720---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 721---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 722---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 723---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 724---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 725---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 726---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 727---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 728---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 729---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 730---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 731---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 732---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 733---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 734---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 735---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 736---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 737---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 738---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 739---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 740---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 741---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 742---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 743---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 744---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 745---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 746---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 747---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 748---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 749---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 750---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 751---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 752---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 753---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 754---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 755---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 756---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 757---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 758---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 759---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 760---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 761---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 762---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 763---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 764---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 765---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 766---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 767---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 768---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 769---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 770---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 771---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 772---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 773---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 774---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 775---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 776---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 777---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 778---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 779---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 780---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 781---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 782---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 783---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 784---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 785---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 786---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 787---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 788---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 789---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 790---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 791---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 792---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 793---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 794---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 795---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 796---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 797---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 798---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 799---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 800---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 801---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 802---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 803---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 804---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 805---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 806---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 807---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 808---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 809---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 810---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 811---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 812---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 813---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 814---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 815---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 816---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 817---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 818---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 819---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 820---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 821---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 822---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 823---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 824---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 825---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 826---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 827---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 828---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 829---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 830---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 831---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 832---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 833---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 834---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 835---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 836---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 837---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 838---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 839---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 840---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 841---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 842---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 843---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 844---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 845---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 846---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 847---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 848---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 849---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 850---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 851---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 852---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 853---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 854---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 855---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 856---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 857---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 858---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 859---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 860---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 861---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 862---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 863---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 864---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 865---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 866---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 867---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 868---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 869---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 870---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 871---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 872---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 873---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 874---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 875---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 876---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 877---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 878---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 879---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 880---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 881---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 882---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 883---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 884---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 885---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 886---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 887---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 888---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 889---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 890---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 891---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 892---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 893---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 894---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 895---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 896---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 897---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 898---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 899---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 900---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 901---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 902---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 903---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 904---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 905---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 906---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 907---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 908---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 909---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 910---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 911---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 912---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 913---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 914---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 915---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 916---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 917---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 918---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 919---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 920---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 921---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 922---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 923---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 924---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 925---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 926---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 927---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 928---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 929---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 930---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 931---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 932---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 933---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 934---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 935---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 936---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 937---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 938---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 939---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 940---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 941---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 942---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 943---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 944---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 945---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 946---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 947---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 948---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 949---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 950---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 951---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 952---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 953---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 954---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 955---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 956---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 957---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 958---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 959---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 960---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 961---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 962---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 963---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 964---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 965---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 966---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 967---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 968---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 969---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 970---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 971---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 972---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 973---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 974---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 975---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 976---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 977---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 978---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 979---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 980---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 981---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 982---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 983---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 984---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 985---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 986---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 987---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 988---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 989---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 990---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 991---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 992---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 993---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 994---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 995---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 996---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 997---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 998---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+----------Loop 999---------
+gameBefore state != currentGame state
+numBuys has changed. Should be: 0, but is: 1
+------------------------------------
+All tests complete. Faults Found.
+------------------------------------
+File 'dominion.c'
+Lines executed:18.21% of 560
+Branches executed:17.03% of 417
+Taken at least once:10.55% of 417
+Calls executed:14.58% of 96
+Creating 'dominion.c.gcov'
+
+Function 'villageEffect'
+Lines executed:100.00% of 5
+No branches
+Calls executed:100.00% of 2
+

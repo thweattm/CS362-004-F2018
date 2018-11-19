@@ -1,0 +1,4012 @@
+>>>> randomtestcard1.c (smithy card) <<<<
+-----------------------------------
+Starting Random Test Card 1: Smithy
+-----------------------------------
+----------Loop 0---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 338, but is 339
+----------Loop 1---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 423, but is 424
+----------Loop 2---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 115, but is 116
+----------Loop 3---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 15, but is 16
+----------Loop 4---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 217, but is 218
+----------Loop 5---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 435, but is 436
+----------Loop 6---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 243, but is 244
+----------Loop 7---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 115, but is 116
+----------Loop 8---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 419, but is 420
+----------Loop 9---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 260, but is 261
+----------Loop 10---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 368, but is 369
+----------Loop 11---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 202, but is 203
+----------Loop 12---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 132, but is 133
+----------Loop 13---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 163, but is 164
+----------Loop 14---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 34, but is 35
+----------Loop 15---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 174, but is 175
+----------Loop 16---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 97, but is 98
+----------Loop 17---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 434, but is 435
+----------Loop 18---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 104, but is 105
+----------Loop 19---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 26, but is 27
+----------Loop 21---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 50, but is 51
+----------Loop 22---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 228, but is 229
+----------Loop 23---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 303, but is 304
+----------Loop 24---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 48, but is 49
+----------Loop 25---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 242, but is 243
+----------Loop 26---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 187, but is 188
+----------Loop 27---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 199, but is 200
+----------Loop 28---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 476, but is 477
+----------Loop 29---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 461, but is 462
+----------Loop 30---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 128, but is 129
+----------Loop 31---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 53, but is 54
+----------Loop 32---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 428, but is 429
+----------Loop 33---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 331, but is 332
+----------Loop 34---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 328, but is 329
+----------Loop 35---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 167, but is 168
+----------Loop 36---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 374, but is 375
+----------Loop 37---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 104, but is 105
+----------Loop 38---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 290, but is 291
+----------Loop 39---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 425, but is 426
+----------Loop 40---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 91, but is 92
+----------Loop 41---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 43, but is 44
+----------Loop 42---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 217, but is 218
+----------Loop 43---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 374, but is 375
+----------Loop 44---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 38, but is 39
+----------Loop 45---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 413, but is 414
+----------Loop 46---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 337, but is 338
+----------Loop 47---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 261, but is 262
+----------Loop 48---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 497, but is 498
+----------Loop 49---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 30, but is 31
+----------Loop 50---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 341, but is 342
+----------Loop 51---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 125, but is 126
+----------Loop 52---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 215, but is 216
+----------Loop 53---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 380, but is 381
+----------Loop 54---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 44, but is 45
+----------Loop 55---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 192, but is 193
+----------Loop 56---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 188, but is 189
+----------Loop 57---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 335, but is 336
+----------Loop 58---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 96, but is 97
+----------Loop 59---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 354, but is 355
+----------Loop 60---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 441, but is 442
+----------Loop 61---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 198, but is 199
+----------Loop 62---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 111, but is 112
+----------Loop 63---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 495, but is 496
+----------Loop 64---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 136, but is 137
+----------Loop 65---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 461, but is 462
+----------Loop 66---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 280, but is 281
+----------Loop 67---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 362, but is 363
+----------Loop 68---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 497, but is 498
+----------Loop 69---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 130, but is 131
+----------Loop 70---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 190, but is 191
+----------Loop 71---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 207, but is 208
+----------Loop 72---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 256, but is 257
+----------Loop 73---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 67, but is 68
+----------Loop 74---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 231, but is 232
+----------Loop 75---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 476, but is 477
+----------Loop 76---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 299, but is 300
+----------Loop 77---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 121, but is 122
+----------Loop 78---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 358, but is 359
+----------Loop 79---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 159, but is 160
+----------Loop 80---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 191, but is 192
+----------Loop 81---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 223, but is 224
+----------Loop 82---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 359, but is 360
+----------Loop 83---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 352, but is 353
+----------Loop 84---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 5, but is 6
+----------Loop 85---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 174, but is 175
+----------Loop 86---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 71, but is 72
+----------Loop 87---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 184, but is 185
+----------Loop 88---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 146, but is 147
+----------Loop 89---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 402, but is 403
+----------Loop 90---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 396, but is 397
+----------Loop 91---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 330, but is 331
+----------Loop 92---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 173, but is 174
+----------Loop 93---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 35, but is 36
+----------Loop 94---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 240, but is 241
+----------Loop 95---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 291, but is 292
+----------Loop 96---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 223, but is 224
+----------Loop 97---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 228, but is 229
+----------Loop 98---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 135, but is 136
+----------Loop 99---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 252, but is 253
+----------Loop 100---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 195, but is 196
+----------Loop 101---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 462, but is 463
+----------Loop 102---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 231, but is 232
+----------Loop 103---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 403, but is 404
+----------Loop 104---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 496, but is 497
+----------Loop 105---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 10, but is 11
+----------Loop 106---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 270, but is 271
+----------Loop 107---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 63, but is 64
+----------Loop 108---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 353, but is 354
+----------Loop 109---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 237, but is 238
+----------Loop 110---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 484, but is 485
+----------Loop 111---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 383, but is 384
+----------Loop 112---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 86, but is 87
+----------Loop 113---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 405, but is 406
+----------Loop 114---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 60, but is 61
+----------Loop 115---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 167, but is 168
+----------Loop 116---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 17, but is 18
+----------Loop 117---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 59, but is 60
+----------Loop 118---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 314, but is 315
+----------Loop 119---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 216, but is 217
+----------Loop 120---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 493, but is 494
+----------Loop 121---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 146, but is 147
+----------Loop 122---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 454, but is 455
+----------Loop 123---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 135, but is 136
+----------Loop 124---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 218, but is 219
+----------Loop 125---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 94, but is 95
+----------Loop 126---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 474, but is 475
+----------Loop 127---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 106, but is 107
+----------Loop 128---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 156, but is 157
+----------Loop 129---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 280, but is 281
+----------Loop 130---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 315, but is 316
+----------Loop 131---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 347, but is 348
+----------Loop 132---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 50, but is 51
+----------Loop 133---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 345, but is 346
+----------Loop 134---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 471, but is 472
+----------Loop 135---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 243, but is 244
+----------Loop 136---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 435, but is 436
+----------Loop 137---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 286, but is 287
+----------Loop 138---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 253, but is 254
+----------Loop 139---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 378, but is 379
+----------Loop 140---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 149, but is 150
+----------Loop 141---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 290, but is 291
+----------Loop 142---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 478, but is 479
+----------Loop 143---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 351, but is 352
+----------Loop 144---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 418, but is 419
+----------Loop 145---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 136, but is 137
+----------Loop 146---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 485, but is 486
+----------Loop 147---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 412, but is 413
+----------Loop 148---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 22, but is 23
+----------Loop 149---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 241, but is 242
+----------Loop 150---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 300, but is 301
+----------Loop 151---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 145, but is 146
+----------Loop 152---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 428, but is 429
+----------Loop 153---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 222, but is 223
+----------Loop 154---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 76, but is 77
+----------Loop 155---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 198, but is 199
+----------Loop 156---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 478, but is 479
+----------Loop 157---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 235, but is 236
+----------Loop 158---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 290, but is 291
+----------Loop 159---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 231, but is 232
+----------Loop 160---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 53, but is 54
+----------Loop 161---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 472, but is 473
+----------Loop 162---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 183, but is 184
+----------Loop 163---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 217, but is 218
+----------Loop 164---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 153, but is 154
+----------Loop 165---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 153, but is 154
+----------Loop 166---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 441, but is 442
+----------Loop 167---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 141, but is 142
+----------Loop 168---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 373, but is 374
+----------Loop 169---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 358, but is 359
+----------Loop 170---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 479, but is 480
+----------Loop 171---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 457, but is 458
+----------Loop 172---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 294, but is 295
+----------Loop 173---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 8, but is 9
+----------Loop 174---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 110, but is 111
+----------Loop 175---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 25, but is 26
+----------Loop 176---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 146, but is 147
+----------Loop 177---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 21, but is 22
+----------Loop 178---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 256, but is 257
+----------Loop 179---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 493, but is 494
+----------Loop 180---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 328, but is 329
+----------Loop 181---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 388, but is 389
+----------Loop 182---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 169, but is 170
+----------Loop 183---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 31, but is 32
+----------Loop 184---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 472, but is 473
+----------Loop 185---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 486, but is 487
+----------Loop 186---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 405, but is 406
+----------Loop 187---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 114, but is 115
+----------Loop 188---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 258, but is 259
+----------Loop 189---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 467, but is 468
+----------Loop 190---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 397, but is 398
+----------Loop 191---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 163, but is 164
+----------Loop 192---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 236, but is 237
+----------Loop 193---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 387, but is 388
+----------Loop 194---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 409, but is 410
+----------Loop 195---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 121, but is 122
+----------Loop 196---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 360, but is 361
+----------Loop 197---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 121, but is 122
+----------Loop 198---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 337, but is 338
+----------Loop 199---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 173, but is 174
+----------Loop 200---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 464, but is 465
+----------Loop 201---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 81, but is 82
+----------Loop 202---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 316, but is 317
+----------Loop 203---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 401, but is 402
+----------Loop 204---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 334, but is 335
+----------Loop 205---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 348, but is 349
+----------Loop 206---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 172, but is 173
+----------Loop 207---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 491, but is 492
+----------Loop 208---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 412, but is 413
+----------Loop 209---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 330, but is 331
+----------Loop 210---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 482, but is 483
+----------Loop 211---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 379, but is 380
+----------Loop 212---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 388, but is 389
+----------Loop 213---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 259, but is 260
+----------Loop 214---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 7, but is 8
+----------Loop 215---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 147, but is 148
+----------Loop 216---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 249, but is 250
+----------Loop 217---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 244, but is 245
+----------Loop 218---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 105, but is 106
+----------Loop 219---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 55, but is 56
+----------Loop 220---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 267, but is 268
+----------Loop 221---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 420, but is 421
+----------Loop 222---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 280, but is 281
+----------Loop 223---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 138, but is 139
+----------Loop 224---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 392, but is 393
+----------Loop 225---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 295, but is 296
+----------Loop 226---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 369, but is 370
+----------Loop 227---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 167, but is 168
+----------Loop 228---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 168, but is 169
+----------Loop 229---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 283, but is 284
+----------Loop 230---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 393, but is 394
+----------Loop 231---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 276, but is 277
+----------Loop 232---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 328, but is 329
+----------Loop 233---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 179, but is 180
+----------Loop 234---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 400, but is 401
+----------Loop 235---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 194, but is 195
+----------Loop 236---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 28, but is 29
+----------Loop 237---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 387, but is 388
+----------Loop 238---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 271, but is 272
+----------Loop 239---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 258, but is 259
+----------Loop 240---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 225, but is 226
+----------Loop 241---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 32, but is 33
+----------Loop 242---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 475, but is 476
+----------Loop 243---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 49, but is 50
+----------Loop 244---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 333, but is 334
+----------Loop 245---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 252, but is 253
+----------Loop 246---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 387, but is 388
+----------Loop 247---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 211, but is 212
+----------Loop 248---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 164, but is 165
+----------Loop 249---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 401, but is 402
+----------Loop 250---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 306, but is 307
+----------Loop 251---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 159, but is 160
+----------Loop 252---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 446, but is 447
+----------Loop 253---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 398, but is 399
+----------Loop 254---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 38, but is 39
+----------Loop 255---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 484, but is 485
+----------Loop 256---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 173, but is 174
+----------Loop 257---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 63, but is 64
+----------Loop 258---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 109, but is 110
+----------Loop 259---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 312, but is 313
+----------Loop 260---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 87, but is 88
+----------Loop 261---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 8, but is 9
+----------Loop 262---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 450, but is 451
+----------Loop 263---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 353, but is 354
+----------Loop 264---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 124, but is 125
+----------Loop 265---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 463, but is 464
+----------Loop 266---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 205, but is 206
+----------Loop 267---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 107, but is 108
+----------Loop 268---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 244, but is 245
+----------Loop 269---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 489, but is 490
+----------Loop 270---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 487, but is 488
+----------Loop 271---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 273, but is 274
+----------Loop 272---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 174, but is 175
+----------Loop 273---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 325, but is 326
+----------Loop 274---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 272, but is 273
+----------Loop 275---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 164, but is 165
+----------Loop 276---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 494, but is 495
+----------Loop 277---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 85, but is 86
+----------Loop 278---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 374, but is 375
+----------Loop 279---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 82, but is 83
+----------Loop 280---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 387, but is 388
+----------Loop 281---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 414, but is 415
+----------Loop 282---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 29, but is 30
+----------Loop 283---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 179, but is 180
+----------Loop 284---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 491, but is 492
+----------Loop 285---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 4, but is 5
+----------Loop 286---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 70, but is 71
+----------Loop 287---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 150, but is 151
+----------Loop 288---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 231, but is 232
+----------Loop 289---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 44, but is 45
+----------Loop 290---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 320, but is 321
+----------Loop 291---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 374, but is 375
+----------Loop 292---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 190, but is 191
+----------Loop 293---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 235, but is 236
+----------Loop 294---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 191, but is 192
+----------Loop 295---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 10, but is 11
+----------Loop 296---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 87, but is 88
+----------Loop 297---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 475, but is 476
+----------Loop 298---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 324, but is 325
+----------Loop 299---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 237, but is 238
+----------Loop 300---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 309, but is 310
+----------Loop 301---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 240, but is 241
+----------Loop 302---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 92, but is 93
+----------Loop 303---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 62, but is 63
+----------Loop 304---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 275, but is 276
+----------Loop 305---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 86, but is 87
+----------Loop 306---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 8, but is 9
+----------Loop 307---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 171, but is 172
+----------Loop 308---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 483, but is 484
+----------Loop 309---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 270, but is 271
+----------Loop 310---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 230, but is 231
+----------Loop 311---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 447, but is 448
+----------Loop 312---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 56, but is 57
+----------Loop 313---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 238, but is 239
+----------Loop 314---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 421, but is 422
+----------Loop 315---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 218, but is 219
+----------Loop 316---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 118, but is 119
+----------Loop 317---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 477, but is 478
+----------Loop 318---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 202, but is 203
+----------Loop 319---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 247, but is 248
+----------Loop 320---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 359, but is 360
+----------Loop 321---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 39, but is 40
+----------Loop 322---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 84, but is 85
+----------Loop 323---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 252, but is 253
+----------Loop 324---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 490, but is 491
+----------Loop 325---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 74, but is 75
+----------Loop 326---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 119, but is 120
+----------Loop 327---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 470, but is 471
+----------Loop 328---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 386, but is 387
+----------Loop 329---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 382, but is 383
+----------Loop 330---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 265, but is 266
+----------Loop 331---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 7, but is 8
+----------Loop 332---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 216, but is 217
+----------Loop 333---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 275, but is 276
+----------Loop 334---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 300, but is 301
+----------Loop 335---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 268, but is 269
+----------Loop 336---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 246, but is 247
+----------Loop 337---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 200, but is 201
+----------Loop 338---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 311, but is 312
+----------Loop 339---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 321, but is 322
+----------Loop 340---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 53, but is 54
+----------Loop 341---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 463, but is 464
+----------Loop 342---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 164, but is 165
+----------Loop 343---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 436, but is 437
+----------Loop 344---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 459, but is 460
+----------Loop 345---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 428, but is 429
+----------Loop 346---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 298, but is 299
+----------Loop 347---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 435, but is 436
+----------Loop 348---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 196, but is 197
+----------Loop 349---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 25, but is 26
+----------Loop 350---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 132, but is 133
+----------Loop 351---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 480, but is 481
+----------Loop 352---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 34, but is 35
+----------Loop 353---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 104, but is 105
+----------Loop 354---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 308, but is 309
+----------Loop 355---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 382, but is 383
+----------Loop 356---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 378, but is 379
+----------Loop 357---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 191, but is 192
+----------Loop 358---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 49, but is 50
+----------Loop 359---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 227, but is 228
+----------Loop 360---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 52, but is 53
+----------Loop 361---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 214, but is 215
+----------Loop 362---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 263, but is 264
+----------Loop 363---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 356, but is 357
+----------Loop 364---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 249, but is 250
+----------Loop 365---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 0, but is 1
+----------Loop 366---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 430, but is 431
+----------Loop 367---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 173, but is 174
+----------Loop 368---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 119, but is 120
+----------Loop 369---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 26, but is 27
+----------Loop 370---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 171, but is 172
+----------Loop 371---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 494, but is 495
+----------Loop 372---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 129, but is 130
+----------Loop 373---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 353, but is 354
+----------Loop 374---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 138, but is 139
+----------Loop 375---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 134, but is 135
+----------Loop 376---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 363, but is 364
+----------Loop 377---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 94, but is 95
+----------Loop 378---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 257, but is 258
+----------Loop 379---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 161, but is 162
+----------Loop 380---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 287, but is 288
+----------Loop 381---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 407, but is 408
+----------Loop 382---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 163, but is 164
+----------Loop 383---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 357, but is 358
+----------Loop 384---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 357, but is 358
+----------Loop 385---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 344, but is 345
+----------Loop 386---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 477, but is 478
+----------Loop 387---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 125, but is 126
+----------Loop 388---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 481, but is 482
+----------Loop 389---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 405, but is 406
+----------Loop 390---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 340, but is 341
+----------Loop 391---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 403, but is 404
+----------Loop 392---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 403, but is 404
+----------Loop 393---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 217, but is 218
+----------Loop 394---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 0, but is 1
+----------Loop 395---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 53, but is 54
+----------Loop 396---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 144, but is 145
+----------Loop 397---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 372, but is 373
+----------Loop 398---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 41, but is 42
+----------Loop 399---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 118, but is 119
+----------Loop 400---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 183, but is 184
+----------Loop 401---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 331, but is 332
+----------Loop 402---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 255, but is 256
+----------Loop 403---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 140, but is 141
+----------Loop 404---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 115, but is 116
+----------Loop 405---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 350, but is 351
+----------Loop 406---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 158, but is 159
+----------Loop 407---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 237, but is 238
+----------Loop 408---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 253, but is 254
+----------Loop 409---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 78, but is 79
+----------Loop 410---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 400, but is 401
+----------Loop 411---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 62, but is 63
+----------Loop 412---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 392, but is 393
+----------Loop 413---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 469, but is 470
+----------Loop 414---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 199, but is 200
+----------Loop 415---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 140, but is 141
+----------Loop 416---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 461, but is 462
+----------Loop 417---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 450, but is 451
+----------Loop 418---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 163, but is 164
+----------Loop 419---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 137, but is 138
+----------Loop 420---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 198, but is 199
+----------Loop 421---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 319, but is 320
+----------Loop 422---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 401, but is 402
+----------Loop 423---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 50, but is 51
+----------Loop 424---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 280, but is 281
+----------Loop 425---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 24, but is 25
+----------Loop 426---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 356, but is 357
+----------Loop 427---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 102, but is 103
+----------Loop 428---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 187, but is 188
+----------Loop 429---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 46, but is 47
+----------Loop 430---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 368, but is 369
+----------Loop 431---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 392, but is 393
+----------Loop 432---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 219, but is 220
+----------Loop 433---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 411, but is 412
+----------Loop 434---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 493, but is 494
+----------Loop 435---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 265, but is 266
+----------Loop 436---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 159, but is 160
+----------Loop 437---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 218, but is 219
+----------Loop 438---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 324, but is 325
+----------Loop 439---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 231, but is 232
+----------Loop 440---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 189, but is 190
+----------Loop 441---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 92, but is 93
+----------Loop 442---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 259, but is 260
+----------Loop 443---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 376, but is 377
+----------Loop 444---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 388, but is 389
+----------Loop 445---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 316, but is 317
+----------Loop 446---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 18, but is 19
+----------Loop 447---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 231, but is 232
+----------Loop 448---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 105, but is 106
+----------Loop 449---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 47, but is 48
+----------Loop 450---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 138, but is 139
+----------Loop 451---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 90, but is 91
+----------Loop 452---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 76, but is 77
+----------Loop 453---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 491, but is 492
+----------Loop 454---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 435, but is 436
+----------Loop 455---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 446, but is 447
+----------Loop 456---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 353, but is 354
+----------Loop 457---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 58, but is 59
+----------Loop 458---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 109, but is 110
+----------Loop 459---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 167, but is 168
+----------Loop 460---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 461, but is 462
+----------Loop 461---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 32, but is 33
+----------Loop 462---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 47, but is 48
+----------Loop 463---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 56, but is 57
+----------Loop 464---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 364, but is 365
+----------Loop 465---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 344, but is 345
+----------Loop 466---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 95, but is 96
+----------Loop 467---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 357, but is 358
+----------Loop 468---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 436, but is 437
+----------Loop 469---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 413, but is 414
+----------Loop 470---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 85, but is 86
+----------Loop 471---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 250, but is 251
+----------Loop 472---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 20, but is 21
+----------Loop 473---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 357, but is 358
+----------Loop 474---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 205, but is 206
+----------Loop 475---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 437, but is 438
+----------Loop 476---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 84, but is 85
+----------Loop 477---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 17, but is 18
+----------Loop 478---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 149, but is 150
+----------Loop 479---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 278, but is 279
+----------Loop 480---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 37, but is 38
+----------Loop 481---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 244, but is 245
+----------Loop 482---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 71, but is 72
+----------Loop 483---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 235, but is 236
+----------Loop 484---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 4, but is 5
+----------Loop 485---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 485, but is 486
+----------Loop 486---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 360, but is 361
+----------Loop 487---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 11, but is 12
+----------Loop 488---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 59, but is 60
+----------Loop 489---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 73, but is 74
+----------Loop 490---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 34, but is 35
+----------Loop 491---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 130, but is 131
+----------Loop 492---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 204, but is 205
+----------Loop 493---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 191, but is 192
+----------Loop 494---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 387, but is 388
+----------Loop 495---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 249, but is 250
+----------Loop 496---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 157, but is 158
+----------Loop 497---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 78, but is 79
+----------Loop 498---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 447, but is 448
+----------Loop 499---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 49, but is 50
+----------Loop 500---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 352, but is 353
+----------Loop 501---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 168, but is 169
+----------Loop 502---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 255, but is 256
+----------Loop 503---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 362, but is 363
+----------Loop 504---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 37, but is 38
+----------Loop 505---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 81, but is 82
+----------Loop 506---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 235, but is 236
+----------Loop 507---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 107, but is 108
+----------Loop 508---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 185, but is 186
+----------Loop 509---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 282, but is 283
+----------Loop 510---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 53, but is 54
+----------Loop 511---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 424, but is 425
+----------Loop 512---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 312, but is 313
+----------Loop 513---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 446, but is 447
+----------Loop 514---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 229, but is 230
+----------Loop 515---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 29, but is 30
+----------Loop 516---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 149, but is 150
+----------Loop 517---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 95, but is 96
+----------Loop 518---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 420, but is 421
+----------Loop 519---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 329, but is 330
+----------Loop 520---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 26, but is 27
+----------Loop 521---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 497, but is 498
+----------Loop 522---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 468, but is 469
+----------Loop 523---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 222, but is 223
+----------Loop 524---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 113, but is 114
+----------Loop 525---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 189, but is 190
+----------Loop 526---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 65, but is 66
+----------Loop 527---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 181, but is 182
+----------Loop 528---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 355, but is 356
+----------Loop 529---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 67, but is 68
+----------Loop 530---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 276, but is 277
+----------Loop 531---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 175, but is 176
+----------Loop 532---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 26, but is 27
+----------Loop 533---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 280, but is 281
+----------Loop 534---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 110, but is 111
+----------Loop 535---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 161, but is 162
+----------Loop 536---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 69, but is 70
+----------Loop 537---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 32, but is 33
+----------Loop 538---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 269, but is 270
+----------Loop 539---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 222, but is 223
+----------Loop 540---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 487, but is 488
+----------Loop 541---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 473, but is 474
+----------Loop 542---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 435, but is 436
+----------Loop 543---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 24, but is 25
+----------Loop 544---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 350, but is 351
+----------Loop 545---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 444, but is 445
+----------Loop 546---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 201, but is 202
+----------Loop 547---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 325, but is 326
+----------Loop 548---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 88, but is 89
+----------Loop 549---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 40, but is 41
+----------Loop 550---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 414, but is 415
+----------Loop 551---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 389, but is 390
+----------Loop 552---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 297, but is 298
+----------Loop 553---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 72, but is 73
+----------Loop 554---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 378, but is 379
+----------Loop 555---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 280, but is 281
+----------Loop 556---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 417, but is 418
+----------Loop 557---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 39, but is 40
+----------Loop 558---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 42, but is 43
+----------Loop 559---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 302, but is 303
+----------Loop 560---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 162, but is 163
+----------Loop 561---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 305, but is 306
+----------Loop 562---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 85, but is 86
+----------Loop 563---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 35, but is 36
+----------Loop 564---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 426, but is 427
+----------Loop 565---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 214, but is 215
+----------Loop 566---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 211, but is 212
+----------Loop 567---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 479, but is 480
+----------Loop 568---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 241, but is 242
+----------Loop 569---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 79, but is 80
+----------Loop 570---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 265, but is 266
+----------Loop 571---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 165, but is 166
+----------Loop 572---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 331, but is 332
+----------Loop 573---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 173, but is 174
+----------Loop 574---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 113, but is 114
+----------Loop 575---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 449, but is 450
+----------Loop 576---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 259, but is 260
+----------Loop 577---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 49, but is 50
+----------Loop 578---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 293, but is 294
+----------Loop 579---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 213, but is 214
+----------Loop 580---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 42, but is 43
+----------Loop 581---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 497, but is 498
+----------Loop 582---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 108, but is 109
+----------Loop 583---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 318, but is 319
+----------Loop 584---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 358, but is 359
+----------Loop 585---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 464, but is 465
+----------Loop 586---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 370, but is 371
+----------Loop 587---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 332, but is 333
+----------Loop 588---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 426, but is 427
+----------Loop 589---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 242, but is 243
+----------Loop 590---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 435, but is 436
+----------Loop 591---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 123, but is 124
+----------Loop 592---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 392, but is 393
+----------Loop 593---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 128, but is 129
+----------Loop 594---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 38, but is 39
+----------Loop 595---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 128, but is 129
+----------Loop 596---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 472, but is 473
+----------Loop 597---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 163, but is 164
+----------Loop 598---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 13, but is 14
+----------Loop 599---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 119, but is 120
+----------Loop 600---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 172, but is 173
+----------Loop 601---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 338, but is 339
+----------Loop 602---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 489, but is 490
+----------Loop 603---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 117, but is 118
+----------Loop 604---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 221, but is 222
+----------Loop 605---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 216, but is 217
+----------Loop 606---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 401, but is 402
+----------Loop 607---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 75, but is 76
+----------Loop 608---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 177, but is 178
+----------Loop 609---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 405, but is 406
+----------Loop 610---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 384, but is 385
+----------Loop 611---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 134, but is 135
+----------Loop 612---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 291, but is 292
+----------Loop 613---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 120, but is 121
+----------Loop 614---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 258, but is 259
+----------Loop 615---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 333, but is 334
+----------Loop 616---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 126, but is 127
+----------Loop 617---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 68, but is 69
+----------Loop 618---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 263, but is 264
+----------Loop 619---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 122, but is 123
+----------Loop 620---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 492, but is 493
+----------Loop 621---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 158, but is 159
+----------Loop 622---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 324, but is 325
+----------Loop 623---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 159, but is 160
+----------Loop 624---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 427, but is 428
+----------Loop 625---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 448, but is 449
+----------Loop 626---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 383, but is 384
+----------Loop 627---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 118, but is 119
+----------Loop 628---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 474, but is 475
+----------Loop 629---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 376, but is 377
+----------Loop 630---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 339, but is 340
+----------Loop 631---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 453, but is 454
+----------Loop 632---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 126, but is 127
+----------Loop 633---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 294, but is 295
+----------Loop 634---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 322, but is 323
+----------Loop 635---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 365, but is 366
+----------Loop 636---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 441, but is 442
+----------Loop 637---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 117, but is 118
+----------Loop 638---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 329, but is 330
+----------Loop 639---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 256, but is 257
+----------Loop 640---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 86, but is 87
+----------Loop 641---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 314, but is 315
+----------Loop 642---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 74, but is 75
+----------Loop 643---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 481, but is 482
+----------Loop 644---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 48, but is 49
+----------Loop 645---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 474, but is 475
+----------Loop 646---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 44, but is 45
+----------Loop 647---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 100, but is 101
+----------Loop 648---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 186, but is 187
+----------Loop 649---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 264, but is 265
+----------Loop 650---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 244, but is 245
+----------Loop 651---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 60, but is 61
+----------Loop 652---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 251, but is 252
+----------Loop 653---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 182, but is 183
+----------Loop 654---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 272, but is 273
+----------Loop 655---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 366, but is 367
+----------Loop 656---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 259, but is 260
+----------Loop 657---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 149, but is 150
+----------Loop 658---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 132, but is 133
+----------Loop 659---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 273, but is 274
+----------Loop 660---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 445, but is 446
+----------Loop 661---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 36, but is 37
+----------Loop 662---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 450, but is 451
+----------Loop 663---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 336, but is 337
+----------Loop 664---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 99, but is 100
+----------Loop 665---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 192, but is 193
+----------Loop 666---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 183, but is 184
+----------Loop 667---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 265, but is 266
+----------Loop 668---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 220, but is 221
+----------Loop 669---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 58, but is 59
+----------Loop 670---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 133, but is 134
+----------Loop 671---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 162, but is 163
+----------Loop 672---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 490, but is 491
+----------Loop 673---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 55, but is 56
+----------Loop 674---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 403, but is 404
+----------Loop 675---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 403, but is 404
+----------Loop 676---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 480, but is 481
+----------Loop 677---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 19, but is 20
+----------Loop 678---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 471, but is 472
+----------Loop 679---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 443, but is 444
+----------Loop 680---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 40, but is 41
+----------Loop 681---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 49, but is 50
+----------Loop 682---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 196, but is 197
+----------Loop 683---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 31, but is 32
+----------Loop 684---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 356, but is 357
+----------Loop 685---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 305, but is 306
+----------Loop 686---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 388, but is 389
+----------Loop 687---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 475, but is 476
+----------Loop 688---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 447, but is 448
+----------Loop 689---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 245, but is 246
+----------Loop 690---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 285, but is 286
+----------Loop 691---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 443, but is 444
+----------Loop 692---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 209, but is 210
+----------Loop 693---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 372, but is 373
+----------Loop 694---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 411, but is 412
+----------Loop 695---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 264, but is 265
+----------Loop 696---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 316, but is 317
+----------Loop 697---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 212, but is 213
+----------Loop 698---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 250, but is 251
+----------Loop 699---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 51, but is 52
+----------Loop 700---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 117, but is 118
+----------Loop 701---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 287, but is 288
+----------Loop 702---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 77, but is 78
+----------Loop 703---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 170, but is 171
+----------Loop 704---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 59, but is 60
+----------Loop 705---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 365, but is 366
+----------Loop 706---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 481, but is 482
+----------Loop 707---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 118, but is 119
+----------Loop 708---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 416, but is 417
+----------Loop 709---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 312, but is 313
+----------Loop 710---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 411, but is 412
+----------Loop 711---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 261, but is 262
+----------Loop 712---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 101, but is 102
+----------Loop 713---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 460, but is 461
+----------Loop 714---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 132, but is 133
+----------Loop 715---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 333, but is 334
+----------Loop 716---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 352, but is 353
+----------Loop 717---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 147, but is 148
+----------Loop 718---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 439, but is 440
+----------Loop 719---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 44, but is 45
+----------Loop 720---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 200, but is 201
+----------Loop 721---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 279, but is 280
+----------Loop 722---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 429, but is 430
+----------Loop 723---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 123, but is 124
+----------Loop 724---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 155, but is 156
+----------Loop 725---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 13, but is 14
+----------Loop 726---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 452, but is 453
+----------Loop 727---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 88, but is 89
+----------Loop 728---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 14, but is 15
+----------Loop 729---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 201, but is 202
+----------Loop 730---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 432, but is 433
+----------Loop 731---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 101, but is 102
+----------Loop 732---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 411, but is 412
+----------Loop 733---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 322, but is 323
+----------Loop 734---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 402, but is 403
+----------Loop 735---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 186, but is 187
+----------Loop 736---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 263, but is 264
+----------Loop 737---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 203, but is 204
+----------Loop 738---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 47, but is 48
+----------Loop 739---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 277, but is 278
+----------Loop 740---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 209, but is 210
+----------Loop 741---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 56, but is 57
+----------Loop 742---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 167, but is 168
+----------Loop 743---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 492, but is 493
+----------Loop 744---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 77, but is 78
+----------Loop 745---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 174, but is 175
+----------Loop 746---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 153, but is 154
+----------Loop 747---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 396, but is 397
+----------Loop 748---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 390, but is 391
+----------Loop 749---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 417, but is 418
+----------Loop 750---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 336, but is 337
+----------Loop 751---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 258, but is 259
+----------Loop 752---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 79, but is 80
+----------Loop 753---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 179, but is 180
+----------Loop 754---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 390, but is 391
+----------Loop 755---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 303, but is 304
+----------Loop 756---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 260, but is 261
+----------Loop 757---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 78, but is 79
+----------Loop 758---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 382, but is 383
+----------Loop 759---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 488, but is 489
+----------Loop 760---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 305, but is 306
+----------Loop 761---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 107, but is 108
+----------Loop 762---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 459, but is 460
+----------Loop 763---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 339, but is 340
+----------Loop 764---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 251, but is 252
+----------Loop 765---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 160, but is 161
+----------Loop 766---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 23, but is 24
+----------Loop 767---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 129, but is 130
+----------Loop 768---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 471, but is 472
+----------Loop 769---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 125, but is 126
+----------Loop 770---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 250, but is 251
+----------Loop 771---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 198, but is 199
+----------Loop 773---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 282, but is 283
+----------Loop 774---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 282, but is 283
+----------Loop 775---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 378, but is 379
+----------Loop 776---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 497, but is 498
+----------Loop 777---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 366, but is 367
+----------Loop 778---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 385, but is 386
+----------Loop 779---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 255, but is 256
+----------Loop 780---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 216, but is 217
+----------Loop 781---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 360, but is 361
+----------Loop 782---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 215, but is 216
+----------Loop 783---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 371, but is 372
+----------Loop 784---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 464, but is 465
+----------Loop 785---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 292, but is 293
+----------Loop 786---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 189, but is 190
+----------Loop 787---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 231, but is 232
+----------Loop 788---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 459, but is 460
+----------Loop 789---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 304, but is 305
+----------Loop 790---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 373, but is 374
+----------Loop 791---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 454, but is 455
+----------Loop 792---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 296, but is 297
+----------Loop 793---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 402, but is 403
+----------Loop 794---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 481, but is 482
+----------Loop 795---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 323, but is 324
+----------Loop 796---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 32, but is 33
+----------Loop 797---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 58, but is 59
+----------Loop 798---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 187, but is 188
+----------Loop 799---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 272, but is 273
+----------Loop 800---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 216, but is 217
+----------Loop 801---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 316, but is 317
+----------Loop 802---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 306, but is 307
+----------Loop 803---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 227, but is 228
+----------Loop 804---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 322, but is 323
+----------Loop 805---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 92, but is 93
+----------Loop 806---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 304, but is 305
+----------Loop 807---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 374, but is 375
+----------Loop 808---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 173, but is 174
+----------Loop 809---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 433, but is 434
+----------Loop 810---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 373, but is 374
+----------Loop 811---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 53, but is 54
+----------Loop 812---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 247, but is 248
+----------Loop 813---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 457, but is 458
+----------Loop 814---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 369, but is 370
+----------Loop 815---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 135, but is 136
+----------Loop 816---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 162, but is 163
+----------Loop 817---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 454, but is 455
+----------Loop 818---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 428, but is 429
+----------Loop 819---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 72, but is 73
+----------Loop 820---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 300, but is 301
+----------Loop 821---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 346, but is 347
+----------Loop 822---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 24, but is 25
+----------Loop 823---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 289, but is 290
+----------Loop 824---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 427, but is 428
+----------Loop 825---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 400, but is 401
+----------Loop 826---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 15, but is 16
+----------Loop 827---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 177, but is 178
+----------Loop 828---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 284, but is 285
+----------Loop 829---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 307, but is 308
+----------Loop 830---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 57, but is 58
+----------Loop 831---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 97, but is 98
+----------Loop 832---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 208, but is 209
+----------Loop 833---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 10, but is 11
+----------Loop 834---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 346, but is 347
+----------Loop 835---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 286, but is 287
+----------Loop 836---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 346, but is 347
+----------Loop 837---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 313, but is 314
+----------Loop 838---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 392, but is 393
+----------Loop 839---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 324, but is 325
+----------Loop 840---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 316, but is 317
+----------Loop 841---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 391, but is 392
+----------Loop 842---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 362, but is 363
+----------Loop 843---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 94, but is 95
+----------Loop 844---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 144, but is 145
+----------Loop 845---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 130, but is 131
+----------Loop 846---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 451, but is 452
+----------Loop 847---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 72, but is 73
+----------Loop 848---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 5, but is 6
+----------Loop 849---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 404, but is 405
+----------Loop 850---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 116, but is 117
+----------Loop 851---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 354, but is 355
+----------Loop 852---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 396, but is 397
+----------Loop 853---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 464, but is 465
+----------Loop 854---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 276, but is 277
+----------Loop 855---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 173, but is 174
+----------Loop 856---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 271, but is 272
+----------Loop 857---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 462, but is 463
+----------Loop 858---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 153, but is 154
+----------Loop 859---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 125, but is 126
+----------Loop 860---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 17, but is 18
+----------Loop 861---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 462, but is 463
+----------Loop 862---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 388, but is 389
+----------Loop 863---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 38, but is 39
+----------Loop 864---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 212, but is 213
+----------Loop 865---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 492, but is 493
+----------Loop 866---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 14, but is 15
+----------Loop 867---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 233, but is 234
+----------Loop 868---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 304, but is 305
+----------Loop 869---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 82, but is 83
+----------Loop 870---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 484, but is 485
+----------Loop 871---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 111, but is 112
+----------Loop 872---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 378, but is 379
+----------Loop 873---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 130, but is 131
+----------Loop 874---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 321, but is 322
+----------Loop 875---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 388, but is 389
+----------Loop 876---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 376, but is 377
+----------Loop 877---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 460, but is 461
+----------Loop 878---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 206, but is 207
+----------Loop 879---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 427, but is 428
+----------Loop 880---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 116, but is 117
+----------Loop 881---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 471, but is 472
+----------Loop 882---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 469, but is 470
+----------Loop 883---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 316, but is 317
+----------Loop 884---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 82, but is 83
+----------Loop 885---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 410, but is 411
+----------Loop 886---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 151, but is 152
+----------Loop 887---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 228, but is 229
+----------Loop 888---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 352, but is 353
+----------Loop 889---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 81, but is 82
+----------Loop 890---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 33, but is 34
+----------Loop 891---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 166, but is 167
+----------Loop 892---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 215, but is 216
+----------Loop 893---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 226, but is 227
+----------Loop 894---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 220, but is 221
+----------Loop 895---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 287, but is 288
+----------Loop 896---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 73, but is 74
+----------Loop 897---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 454, but is 455
+----------Loop 898---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 399, but is 400
+----------Loop 899---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 120, but is 121
+----------Loop 900---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 75, but is 76
+----------Loop 901---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 316, but is 317
+----------Loop 902---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 104, but is 105
+----------Loop 903---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 243, but is 244
+----------Loop 904---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 266, but is 267
+----------Loop 905---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 331, but is 332
+----------Loop 906---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 357, but is 358
+----------Loop 907---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 305, but is 306
+----------Loop 908---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 176, but is 177
+----------Loop 909---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 431, but is 432
+----------Loop 910---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 407, but is 408
+----------Loop 911---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 272, but is 273
+----------Loop 912---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 142, but is 143
+----------Loop 913---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 59, but is 60
+----------Loop 914---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 219, but is 220
+----------Loop 915---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 433, but is 434
+----------Loop 916---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 477, but is 478
+----------Loop 917---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 421, but is 422
+----------Loop 918---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 387, but is 388
+----------Loop 919---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 497, but is 498
+----------Loop 920---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 258, but is 259
+----------Loop 921---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 478, but is 479
+----------Loop 922---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 74, but is 75
+----------Loop 923---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 201, but is 202
+----------Loop 924---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 263, but is 264
+----------Loop 925---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 74, but is 75
+----------Loop 926---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 329, but is 330
+----------Loop 927---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 153, but is 154
+----------Loop 928---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 222, but is 223
+----------Loop 929---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 60, but is 61
+----------Loop 930---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 323, but is 324
+----------Loop 931---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 497, but is 498
+----------Loop 932---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 444, but is 445
+----------Loop 933---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 158, but is 159
+----------Loop 934---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 368, but is 369
+----------Loop 935---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 184, but is 185
+----------Loop 936---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 2, but is 3
+----------Loop 937---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 374, but is 375
+----------Loop 938---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 287, but is 288
+----------Loop 939---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 410, but is 411
+----------Loop 940---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 70, but is 71
+----------Loop 941---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 83, but is 84
+----------Loop 942---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 86, but is 87
+----------Loop 943---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 21, but is 22
+----------Loop 944---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 186, but is 187
+----------Loop 945---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 295, but is 296
+----------Loop 946---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 352, but is 353
+----------Loop 947---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 72, but is 73
+----------Loop 948---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 250, but is 251
+----------Loop 949---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 434, but is 435
+----------Loop 950---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 283, but is 284
+----------Loop 951---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 380, but is 381
+----------Loop 952---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 211, but is 212
+----------Loop 953---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 301, but is 302
+----------Loop 954---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 151, but is 152
+----------Loop 955---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 14, but is 15
+----------Loop 956---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 442, but is 443
+----------Loop 957---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 17, but is 18
+----------Loop 958---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 377, but is 378
+----------Loop 959---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 343, but is 344
+----------Loop 960---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 57, but is 58
+----------Loop 961---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 427, but is 428
+----------Loop 962---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 101, but is 102
+----------Loop 963---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 326, but is 327
+----------Loop 964---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 190, but is 191
+----------Loop 965---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 47, but is 48
+----------Loop 966---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 287, but is 288
+----------Loop 967---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 173, but is 174
+----------Loop 968---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 362, but is 363
+----------Loop 969---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 137, but is 138
+----------Loop 970---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 451, but is 452
+----------Loop 971---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 203, but is 204
+----------Loop 972---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 45, but is 46
+----------Loop 973---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 414, but is 415
+----------Loop 974---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 116, but is 117
+----------Loop 975---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 473, but is 474
+----------Loop 976---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 224, but is 225
+----------Loop 977---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 51, but is 52
+----------Loop 978---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 173, but is 174
+----------Loop 979---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 139, but is 140
+----------Loop 980---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 110, but is 111
+----------Loop 981---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 60, but is 61
+----------Loop 982---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 190, but is 191
+----------Loop 983---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 383, but is 384
+----------Loop 984---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 399, but is 400
+----------Loop 985---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 170, but is 171
+----------Loop 986---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 113, but is 114
+----------Loop 987---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 17, but is 18
+----------Loop 988---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 108, but is 109
+----------Loop 989---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 298, but is 299
+----------Loop 990---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 437, but is 438
+----------Loop 991---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 394, but is 395
+----------Loop 992---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 15, but is 16
+----------Loop 993---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 487, but is 488
+----------Loop 994---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 405, but is 406
+----------Loop 995---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 460, but is 461
+----------Loop 996---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 467, but is 468
+----------Loop 997---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 52, but is 53
+----------Loop 998---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 21, but is 22
+----------Loop 999---------
+gameBefore state != currentGame state
+handCount has changed. Should be 7, but is 6
+deckCount has changed. Should be 211, but is 212
+------------------------------------
+All tests complete. Faults Found.
+------------------------------------
+File 'dominion.c'
+Lines executed:14.82% of 560
+Branches executed:14.63% of 417
+Taken at least once:8.63% of 417
+Calls executed:10.42% of 96
+Creating 'dominion.c.gcov'
+
+Function 'smithyCardEffect'
+Lines executed:100.00% of 5
+Branches executed:100.00% of 2
+Taken at least once:100.00% of 2
+Calls executed:100.00% of 2
+

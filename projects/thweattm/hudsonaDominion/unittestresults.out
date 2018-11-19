@@ -1,0 +1,172 @@
+>>>> unittest1.c (compare function) <<<<
+Test 1 success: a (5) > b (0)
+Test 2 success: a (-5) < b (2)
+Test 3 success: a (3) == b (3)
+Test 4 success: a (-10) < b (-3)
+Test 5 success: a (847485) < b (918273)
+File 'dominion.c'
+Lines executed:1.07% of 560
+Branches executed:0.96% of 417
+Taken at least once:0.96% of 417
+Calls executed:0.00% of 96
+Creating 'dominion.c.gcov'
+
+Function 'compare'
+Lines executed:100.00% of 6
+Branches executed:100.00% of 4
+Taken at least once:100.00% of 4
+No calls
+
+>>>> unittest2.c (shuffle function) <<<<
+Test 1 success: deckCount matches for player 1
+Test 2 success: deck sort & order is different for player 1
+Test 3 success: deckCount matches for player 2
+Test 4 success: deck sort & order remains unchanged for player 2
+File 'dominion.c'
+Lines executed:16.07% of 560
+Branches executed:15.83% of 417
+Taken at least once:12.95% of 417
+Calls executed:7.29% of 96
+Creating 'dominion.c.gcov'
+
+Function 'shuffle'
+Lines executed:93.75% of 16
+Branches executed:100.00% of 8
+Taken at least once:87.50% of 8
+Calls executed:100.00% of 2
+
+>>>> unittest3.c (scoreFor function) <<<<
+Test 1 failure: score (1) != 3
+Test 2 success: score == 10
+Test 3 success: score == 9
+Test 4 success: score == 10
+File 'dominion.c'
+Lines executed:20.36% of 560
+Branches executed:25.90% of 417
+Taken at least once:19.66% of 417
+Calls executed:7.29% of 96
+Creating 'dominion.c.gcov'
+
+Function 'scoreFor'
+Lines executed:100.00% of 24
+Branches executed:100.00% of 42
+Taken at least once:66.67% of 42
+Calls executed:0.00% of 3
+
+>>>> unittest4.c (isGameOver function) <<<<
+Test 1 success: Game is not over upon initialization
+Test 2 success: Game over because province == 0
+Test 3 success: Game not reported as over with only 2 supply piles as 0
+Test 4 success: Game reported as over with 3 supply piles as 0
+Test 5 failure: Game not reported as over with 3 supply piles as 0
+File 'dominion.c'
+Lines executed:22.14% of 560
+Branches executed:27.82% of 417
+Taken at least once:21.58% of 417
+Calls executed:7.29% of 96
+Creating 'dominion.c.gcov'
+
+Function 'isGameOver'
+Lines executed:100.00% of 10
+Branches executed:100.00% of 8
+Taken at least once:100.00% of 8
+No calls
+
+>>>> cardtest1.c (smithy card) <<<<
+Test 1.a success: scores remain the same for player 1
+Test 1.b success: numActions decreased by 1
+Test 1.c success: numBuys remained the same
+Test 1.d failure: deckCount did not decrease by 3 (current deckCount: 3, original deckCount: 5)
+Test 1.e success: playedCardCount increased by 1
+Test 1.f success: smithy now in the played stack
+Test 1.g failure: handCount did not increase by 2 (current handCount: 6, original handCount: 5)
+Test 1.h success: smithy is no longer in hand
+Test 2.a success: player 2 handCount unchanged
+Test 2.b success: player 2 deckCount unchanged
+Test 2.c success: player 2 cards in hand remains unchanged
+Test 2.d success: player 2 cards in deck remains unchanged
+Test 2.e success: scores remain the same for player 2
+File 'dominion.c'
+Lines executed:29.82% of 560
+Branches executed:37.65% of 417
+Taken at least once:24.94% of 417
+Calls executed:15.63% of 96
+Creating 'dominion.c.gcov'
+
+Function 'smithyCardEffect'
+Lines executed:100.00% of 5
+Branches executed:100.00% of 2
+Taken at least once:100.00% of 2
+Calls executed:100.00% of 2
+
+>>>> cardtest2.c (adventurer card) <<<<
+Test 1.a success: scores remain the same for player 1
+Test 1.b success: numActions decreased by 1
+Test 1.c success: numBuys remained the same
+Test 1.d failure: deckCount did not decrease by 4 (current deckCount: 3, original deckCount: 5)
+Test 1.e failure: discardCount did not increase by 2 (current discardCount: 0, original discardCount: 0)
+Test 1.f failure: cutpurse & village not found in discard
+Test 1.g failure: handCount did not increase by 1 (current handCount: 7, original handCount: 5)
+Test 1.h failure: adventurer is still in hand
+Test 2.a success: player 2 handCount unchanged
+Test 2.b success: player 2 deckCount unchanged
+Test 2.c success: player 2 cards in hand remains unchanged
+Test 2.d success: player 2 cards in deck remains unchanged
+Test 2.e success: player 2 score remains the same
+File 'dominion.c'
+Lines executed:31.79% of 560
+Branches executed:40.05% of 417
+Taken at least once:26.86% of 417
+Calls executed:18.75% of 96
+Creating 'dominion.c.gcov'
+
+Function 'adventureCardEffect'
+Lines executed:66.67% of 15
+Branches executed:83.33% of 12
+Taken at least once:58.33% of 12
+Calls executed:100.00% of 2
+
+>>>> cardtest3.c (village card) <<<<
+Test 1.a failure: Player 1 score changed unexpectedly
+Test 1.b success: Player 1 numActions increased by 2
+Test 1.c failure: Player 1 numBuys changed unexpectedly
+Test 1.d success: Player 1 deckCount decreased by 1
+Test 1.e success: playedCardCount increased by 1
+Test 1.f success: village found in playedCards
+Test 1.g success: Player 1 handCount remained equal
+Test 1.h success: Player 1 no longer has village in hand
+Test 1.h success: Player 1 now has copper in hand
+Test 2.a success: player 2 handCount unchanged
+Test 2.b success: player 2 deckCount unchanged
+Test 2.c success: player 2 cards in hand remains unchanged
+Test 2.d success: player 2 cards in deck remains unchanged
+Test 2.e success: player 2 score remains the same
+File 'dominion.c'
+Lines executed:35.89% of 560
+Branches executed:42.93% of 417
+Taken at least once:28.78% of 417
+Calls executed:26.04% of 96
+Creating 'dominion.c.gcov'
+
+Function 'villageEffect'
+Lines executed:100.00% of 5
+No branches
+Calls executed:100.00% of 2
+
+>>>> cardtest4.c (cutpurse card) <<<<
+Test 1.a success: Player 1 score remains the same
+Test 1.b success: Player 1 numBuys remained the same
+Test 1.c success: playedCardCount increased by 1
+Test 1.d success: cutpurse found in playedCards
+Test 1.e success: Player 1 handCount decreased by 1
+Test 1.f success: Player 1 no longer has cutpurse in hand
+Test 1.g failure: Player 1 coins are not 2 (current coins: 3)
+Test 2.a failure: Player 2 does not have 1 less copper (current copper count: 0, original copper count: 0, cards in hand: 0)
+Test 2.e success: player 2 score remains the same
+File 'dominion.c'
+Lines executed:36.96% of 560
+Branches executed:44.36% of 417
+Taken at least once:30.22% of 417
+Calls executed:28.13% of 96
+Creating 'dominion.c.gcov'
+

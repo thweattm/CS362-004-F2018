@@ -149,7 +149,7 @@ int main(){
 		//Set handCount to 5 to ensure hand only has 5 cards
 		currentGame.handCount[player] = 5;
 		
-		//Set deckCount to random number >0
+		//Set deckCount to random number >1
 		currentGame.deckCount[player] = rand() % MAX_DECK + 2;
 		
 		
@@ -157,8 +157,19 @@ int main(){
 		for (int i = 0; i < MAX_DECK; i++){
 			currentGame.deck[player][i] = rand() % treasure_map + curse;
 		}
+		
+		//Stack deck with guaranteed treasure (also requires the deck count to be >1)
 		currentGame.deck[player][0] = copper;
 		currentGame.deck[player][1] = silver;
+		
+		//Print deck count and number of treasures in hand before running the function (segmentation fault verification)
+		/*printf("Number of cards in deck: %d\n", currentGame.deckCount[player]);
+		int currentTreasures = 0;
+		for (int i = 0; i < currentGame.deckCount[player]; i++){
+			if (currentGame.deck[player][i] == copper || currentGame.deck[player][i] == silver || currentGame.deck[player][i] == gold)
+				currentTreasures++;
+		}
+		printf("Number of treasures in deck: %d\n", currentTreasures);*/
 		
 		//Randomize handPos between 0 and number of cards in hand
 		handPos = rand() % currentGame.handCount[player];

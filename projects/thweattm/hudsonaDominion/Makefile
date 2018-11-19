@@ -142,4 +142,8 @@ runtests: testDrawCard
 
 
 clean:
-	rm -f *.o *.exe  *.gcov *.gcda *.gcno *.so playdom player testDrawCard cardtest1 cardtest2 cardtest3 cardtest4 unittest1 unittest2 unittest3 unittest4 randomtestcard1 randomtestcard2 randomtestadventurer randomtestadventurer.out randomtestcard1.out randomtestcard2.out unittestresults.out
+	rm -f *.o *.exe  *.gcov *.gcda *.gcno *.so \
+	playdom player testDrawCard \
+	cardtest1 cardtest2 cardtest3 cardtest4 \
+	unittest1 unittest2 unittest3 unittest4 \
+	randomtestcard1 randomtestcard2 randomtestadventurer

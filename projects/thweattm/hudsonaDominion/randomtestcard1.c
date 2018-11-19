@@ -80,19 +80,19 @@ int testCard(int choice1, int choice2, int choice3, struct gameState *currentGam
 		if (memcmp(&gameBefore.hand[player], currentGame->hand[player], sizeof(int) * gameBefore.handCount[player]) != 0){
 			printf("hand array has changed\n");}
 		if (gameBefore.handCount[player] != currentGame->handCount[player]){
-			printf("handCount has changed. Before:%d After:%d\n", gameBefore.handCount[player], currentGame->handCount[player]);}
+			printf("handCount has changed. Should be %d, but is %d\n", gameBefore.handCount[player], currentGame->handCount[player]);}
 		if (memcmp(&gameBefore.deck[player], currentGame->deck[player], sizeof(int) * gameBefore.deckCount[player]) != 0){
 			printf("deck array has changed\n");}
 		if (gameBefore.deckCount[player] != currentGame->deckCount[player]){
-			printf("deckCount has changed. Before:%d After:%d\n", gameBefore.deckCount[player], currentGame->deckCount[player]);}
+			printf("deckCount has changed. Should be %d, but is %d\n", gameBefore.deckCount[player], currentGame->deckCount[player]);}
 		if (memcmp(&gameBefore.discard[player], currentGame->discard[player], sizeof(int) * gameBefore.discardCount[player]) != 0){
 			printf("discard array has changed\n");}
 		if (gameBefore.discardCount[player] != currentGame->discardCount[player]){
-			printf("discardCount has changed. Before:%d After:%d\n", gameBefore.discardCount[player], currentGame->discardCount[player]);}
+			printf("discardCount has changed. Should be %d, but is %d\n", gameBefore.discardCount[player], currentGame->discardCount[player]);}
 		if (memcmp(&gameBefore.playedCards, currentGame->playedCards, sizeof(int) * gameBefore.playedCardCount) != 0){
 			printf("playedCards array has changed\n");}
 		if (gameBefore.playedCardCount != currentGame->playedCardCount){
-			printf("playedCardCount has changed. Before:%d After:%d\n", gameBefore.playedCardCount, currentGame->playedCardCount);}
+			printf("playedCardCount has changed. Should be %d, but is %d\n", gameBefore.playedCardCount, currentGame->playedCardCount);}
 	}
 	
 	return faultFound; //All tests complete
