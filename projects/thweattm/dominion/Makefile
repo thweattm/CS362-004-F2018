@@ -23,7 +23,7 @@ default: all
 ######
 
 
-#my test functions
+#my random test functions
 randomtestadventurer: dominion.o randomtestadventurer.c rngs.o
 	echo ">>>> randomtestadventurer.c <<<<" > randomtestadventurer.out
 	gcc -o randomtestadventurer -g randomtestadventurer.c dominion.o rngs.o $(CFLAGS)
@@ -48,9 +48,63 @@ randomtestcard2: dominion.o randomtestcard2.c rngs.o
 randomtestresults: randomtestadventurer randomtestcard1 randomtestcard2
 
 ######
+#my unit test functions
+unittest1: dominion.o unittest1.c rngs.o
+	echo ">>>> unittest1.c <<<<" > unittestresults.out
+	gcc -o unittest1 -g unittest1.c dominion.o rngs.o $(CFLAGS)
+	./unittest1 >> unittestresults.out
+	gcov dominion.c >> unittestresults.out
 	
+unittest2: dominion.o unittest2.c rngs.o
+	echo ">>>> unittest2.c <<<<" >> unittestresults.out
+	gcc -o unittest2 -g unittest2.c dominion.o rngs.o $(CFLAGS)
+	./unittest2 >> unittestresults.out
+	gcov dominion.c >> unittestresults.out
+
+unittest3: dominion.o unittest3.c rngs.o
+	echo ">>>> unittest3.c <<<<" >> unittestresults.out
+	gcc -o unittest3 -g unittest3.c dominion.o rngs.o $(CFLAGS)
+	./unittest3 >> unittestresults.out
+	gcov dominion.c >> unittestresults.out
 	
+unittest4: dominion.o unittest4.c rngs.o
+	echo ">>>> unittest4.c <<<<" >> unittestresults.out
+	gcc -o unittest4 -g unittest4.c dominion.o rngs.o $(CFLAGS)
+	./unittest4 >> unittestresults.out
+	gcov dominion.c >> unittestresults.out
 	
+cardtest1: dominion.o cardtest1.c rngs.o
+	echo ">>>> cardtest1.c <<<<" >> unittestresults.out
+	gcc -o cardtest1 -g cardtest1.c dominion.o rngs.o $(CFLAGS)
+	./cardtest1 >> unittestresults.out
+	gcov dominion.c >> unittestresults.out
+
+cardtest2: dominion.o cardtest2.c rngs.o
+	echo ">>>> cardtest2.c <<<<" >> unittestresults.out
+	gcc -o cardtest2 -g cardtest2.c dominion.o rngs.o $(CFLAGS)
+	./cardtest2 >> unittestresults.out
+	gcov dominion.c >> unittestresults.out
+
+cardtest3: dominion.o cardtest3.c rngs.o
+	echo ">>>> cardtest3.c <<<<" >> unittestresults.out
+	gcc -o cardtest3 -g cardtest3.c dominion.o rngs.o $(CFLAGS)
+	./cardtest3 >> unittestresults.out
+	gcov dominion.c >> unittestresults.out
+
+cardtest4: dominion.o cardtest4.c rngs.o
+	echo ">>>> cardtest4.c <<<<" >> unittestresults.out
+	gcc -o cardtest4 -g cardtest4.c dominion.o rngs.o $(CFLAGS)
+	./cardtest4 >> unittestresults.out
+	gcov dominion.c >> unittestresults.out
+	
+unittestresults: unittest1 unittest2 unittest3 unittest4 cardtest1 cardtest2 cardtest3 cardtest4
+
+
+testAll: unittestresults randomtestresults
+######
+
+
+
 	
 #previously written test functions	
 testDrawCard: testDrawCard.c dominion.o rngs.o
