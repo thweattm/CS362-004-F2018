@@ -75,7 +75,7 @@ int testCard(int choice1, int choice2, int choice3, struct gameState *currentGam
 		printf("gameBefore state != currentGame state\n");
 		//Check more detailed gameState items
 		if (gameBefore.numPlayers != currentGame->numPlayers){
-			printf("Number of players has changed\n");}
+			printf("Number of players has changed. Should be %d, but is %d\n", gameBefore.numPlayers, currentGame->numPlayers);}
 		if (memcmp(&gameBefore.supplyCount, currentGame->supplyCount, sizeof(int) * (treasure_map + 1)) != 0){
 			printf("Supply counts have changed\n");}
 		if (memcmp(&gameBefore.embargoTokens, currentGame->embargoTokens, sizeof(int) * (treasure_map + 1)) != 0){
@@ -95,19 +95,19 @@ int testCard(int choice1, int choice2, int choice3, struct gameState *currentGam
 		if (memcmp(&gameBefore.hand[player], currentGame->hand[player], sizeof(int) * gameBefore.handCount[player]) != 0){
 			printf("hand array has changed\n");}
 		if (gameBefore.handCount[player] != currentGame->handCount[player]){
-			printf("handCount has changed. Before:%d After:%d\n", gameBefore.handCount[player], currentGame->handCount[player]);}
+			printf("handCount has changed. Should be %d, but is %d\n", gameBefore.handCount[player], currentGame->handCount[player]);}
 		if (memcmp(&gameBefore.deck[player], currentGame->deck[player], sizeof(int) * gameBefore.deckCount[player]) != 0){
 			printf("deck array has changed\n");}
 		if (gameBefore.deckCount[player] != currentGame->deckCount[player]){
-			printf("deckCount has changed. Before:%d After:%d\n", gameBefore.deckCount[player], currentGame->deckCount[player]);}
+			printf("deckCount has changed. Should be %d, but is %d\n", gameBefore.deckCount[player], currentGame->deckCount[player]);}
 		if (memcmp(&gameBefore.discard[player], currentGame->discard[player], sizeof(int) * gameBefore.discardCount[player]) != 0){
 			printf("discard array has changed\n");}
 		if (gameBefore.discardCount[player] != currentGame->discardCount[player]){
-			printf("discardCount has changed. Before:%d After:%d\n", gameBefore.discardCount[player], currentGame->discardCount[player]);}
+			printf("discardCount has changed. Should be %d, but is %d\n", gameBefore.discardCount[player], currentGame->discardCount[player]);}
 		if (memcmp(&gameBefore.playedCards, currentGame->playedCards, sizeof(int) * gameBefore.playedCardCount) != 0){
 			printf("playedCards array has changed\n");}
 		if (gameBefore.playedCardCount != currentGame->playedCardCount){
-			printf("playedCardCount has changed. Before:%d After:%d\n", gameBefore.playedCardCount, currentGame->playedCardCount);}
+			printf("playedCardCount has changed. Should be %d, but is %d\n", gameBefore.playedCardCount, currentGame->playedCardCount);}
 	}
 	
 	return faultFound; //All tests complete
@@ -150,12 +150,15 @@ int main(){
 		currentGame.handCount[player] = 5;
 		
 		//Set deckCount to random number >0
-		currentGame.deckCount[player] = rand() % MAX_DECK + 1;
+		currentGame.deckCount[player] = rand() % MAX_DECK + 2;
+		
 		
 		//Randomize players deck with legitimate options
 		for (int i = 0; i < MAX_DECK; i++){
 			currentGame.deck[player][i] = rand() % treasure_map + curse;
 		}
+		currentGame.deck[player][0] = copper;
+		currentGame.deck[player][1] = silver;
 		
 		//Randomize handPos between 0 and number of cards in hand
 		handPos = rand() % currentGame.handCount[player];
@@ -169,12 +172,14 @@ int main(){
 		
 	}
 	
+	printf("------------------------------------\n");
 	printf("All tests complete. ");
 	if (faultFound){
 		printf("Faults Found.\n");
 	} else {
 		printf("No Faults Found.\n");
 	}
-		
+	printf("------------------------------------\n");
+	
 	return 0;
 }

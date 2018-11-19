@@ -145,12 +145,14 @@ int main(){
 		
 	}
 	
+	printf("------------------------------------\n");
 	printf("All tests complete. ");
 	if (faultFound){
 		printf("Faults Found.\n");
 	} else {
 		printf("No Faults Found.\n");
 	}
+	printf("------------------------------------\n");
 		
 	return 0;
 }

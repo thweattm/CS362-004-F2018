@@ -118,7 +118,7 @@ int main(){
 		if (currentCopper == originalCopper - 1){
 			printf("Test 2.a success: Player 2 has 1 less copper\n");
 		} else {
-			printf("Test 2.a failure: Player 2 does not have 1 less copper (current copper count: %d, original copper count: %d, cards in hand: %d\n",
+			printf("Test 2.a failure: Player 2 does not have 1 less copper (current copper count: %d, original copper count: %d, cards in hand: %d)\n",
 				currentCopper, originalCopper, currentState.handCount[1]);
 		}
 		
