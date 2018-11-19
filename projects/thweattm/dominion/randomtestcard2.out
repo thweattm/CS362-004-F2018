@@ -1,0 +1,18 @@
+>>>> randomtestcard2.c <<<<
+------------------------------------
+Starting Random Test Card 2: Village
+------------------------------------
+All tests complete. No Faults Found.
+File 'dominion.c'
+Lines executed:12.52% of 559
+Branches executed:12.23% of 417
+Taken at least once:6.24% of 417
+Calls executed:11.58% of 95
+Creating 'dominion.c.gcov'
+
+Function 'villageCard'
+Lines executed:100.00% of 5
+No branches
+Calls executed:100.00% of 2
+
+Function 'mineCard'

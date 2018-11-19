@@ -1,0 +1,107 @@
+>>>> unittest1.c <<<<
+Test 1 success: a (5) > b (0)
+Test 2 success: a (-5) < b (2)
+Test 3 success: a (3) == b (3)
+Test 4 success: a (-10) < b (-3)
+Test 5 success: a (847485) < b (918273)
+File 'dominion.c'
+Lines executed:1.07% of 559
+Creating 'dominion.c.gcov'
+
+>>>> unittest2.c <<<<
+Test 1 success: deckCount matches for player 1
+Test 2 success: deck sort & order is different for player 1
+Test 3 success: deckCount matches for player 2
+Test 4 success: deck sort & order remains unchanged for player 2
+File 'dominion.c'
+Lines executed:16.10% of 559
+Creating 'dominion.c.gcov'
+
+>>>> unittest3.c <<<<
+Test 1 failure: score (1) != 3
+Test 2 success: score == 10
+Test 3 success: score == 9
+Test 4 success: score == 10
+File 'dominion.c'
+Lines executed:20.39% of 559
+Creating 'dominion.c.gcov'
+
+>>>> unittest4.c <<<<
+Test 1 success: Game is not over upon initialization
+Test 2 success: Game over because province == 0
+Test 3 success: Game not reported as over with only 2 supply piles as 0
+Test 4 success: Game reported as over with 3 supply piles as 0
+Test 5 failure: Game not reported as over with 3 supply piles as 0
+File 'dominion.c'
+Lines executed:22.18% of 559
+Creating 'dominion.c.gcov'
+
+>>>> cardtest1.c <<<<
+Test 1.a success: scores remain the same for player 1
+Test 1.b success: numActions decreased by 1
+Test 1.c success: numBuys remained the same
+Test 1.d failure: deckCount did not decrease by 3 (current deckCount: 3, original deckCount: 5)
+Test 1.e success: playedCardCount increased by 1
+Test 1.f success: smithy now in the played stack
+Test 1.g failure: handCount did not increase by 2 (current handCount: 6, original handCount: 5)
+Test 1.h success: smithy is no longer in hand
+Test 2.a success: player 2 handCount unchanged
+Test 2.b success: player 2 deckCount unchanged
+Test 2.c success: player 2 cards in hand remains unchanged
+Test 2.d success: player 2 cards in deck remains unchanged
+Test 2.e success: scores remain the same for player 2
+File 'dominion.c'
+Lines executed:29.34% of 559
+Creating 'dominion.c.gcov'
+
+>>>> cardtest2.c <<<<
+Test 1.a success: scores remain the same for player 1
+Test 1.b success: numActions decreased by 1
+Test 1.c success: numBuys remained the same
+Test 1.d failure: deckCount did not decrease by 4 (current deckCount: 3, original deckCount: 5)
+Test 1.e failure: discardCount did not increase by 2 (current discardCount: 1, original discardCount: 0)
+Test 1.f failure: cutpurse & village not found in discard
+Test 1.g failure: handCount did not increase by 1 (current handCount: 7, original handCount: 5)
+Test 1.h failure: adventurer is still in hand
+Test 2.a success: player 2 handCount unchanged
+Test 2.b success: player 2 deckCount unchanged
+Test 2.c success: player 2 cards in hand remains unchanged
+Test 2.d success: player 2 cards in deck remains unchanged
+Test 2.e success: player 2 score remains the same
+File 'dominion.c'
+Lines executed:31.84% of 559
+Creating 'dominion.c.gcov'
+
+>>>> cardtest3.c <<<<
+Test 1.a success: Player 1 score remains the same
+Test 1.b success: Player 1 numActions increased by 2
+Test 1.c success: Player 1 numBuys remained the same
+Test 1.d success: Player 1 deckCount decreased by 1
+Test 1.e success: playedCardCount increased by 1
+Test 1.f success: village found in playedCards
+Test 1.g success: Player 1 handCount remained equal
+Test 1.h success: Player 1 no longer has village in hand
+Test 1.h success: Player 1 now has copper in hand
+Test 2.a success: player 2 handCount unchanged
+Test 2.b success: player 2 deckCount unchanged
+Test 2.c success: player 2 cards in hand remains unchanged
+Test 2.d success: player 2 cards in deck remains unchanged
+Test 2.e success: player 2 score remains the same
+File 'dominion.c'
+Lines executed:32.92% of 559
+Creating 'dominion.c.gcov'
+
+>>>> cardtest4.c <<<<
+Test 1.a success: Player 1 score remains the same
+Test 1.b success: Player 1 numBuys remained the same
+Test 1.c failure: playedCardCount did not increase by 1 (current playedCardCount: 2, original playedCardCount: 0)
+Test 1.d success: cutpurse found in playedCards
+Test 1.e failure: Player 1 handCount did not decrease by 1 (current handCount: 3, original handCount: 5)
+Test 1.f success: Player 1 no longer has cutpurse in hand
+Test 1.g success: Player 1 has two coins
+Test 2.a failure: Player 2 does not have 1 less copper (current copper count: 0, original copper count: 0, cards in hand: 0
+Test 2.e success: player 2 score remains the same
+File 'dominion.c'
+Lines executed:35.06% of 559
+Creating 'dominion.c.gcov'
+
